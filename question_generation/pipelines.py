@@ -49,25 +49,27 @@ class QGPipeline:
             self.model_type = "bart"
 
     def __call__(self, inputs: str):
-        inputs = " ".join(inputs.split())
-        sents, answers = self._extract_answers(inputs)
+        with open("/source/" + inputs, "r") as f:
+            content = f.read()
+        content = " ".join(content.split())
+        sents, answers = self._extract_answers(content)
         flat_answers = list(itertools.chain(*answers))
 
         if len(flat_answers) == 0:
             return []
 
         if self.qg_format == "prepend":
-            qg_examples = self._prepare_inputs_for_qg_from_answers_prepend(inputs, answers)
+            qg_examples = self._prepare_inputs_for_qg_from_answers_prepend(content, answers)
         else:
             qg_examples = self._prepare_inputs_for_qg_from_answers_hl(sents, answers)
 
         qg_inputs = [example['source_text'] for example in qg_examples]
         questions = self._generate_questions(qg_inputs)
-        output: list  = [{'answer': example['answer'], 'question': que} for example, que in zip(qg_examples, questions)]
+        output: list  = [{'answer': example['answer'],  'question': que} for example, que in zip(qg_examples, questions)]
         # write output to file "output.txt"
         file = open("output.txt", "a")
-        title = "index" + "\t" + "label" + "\t" + "answer" + "\t" + "question" "\n"
-        file.write(title)
+        # title = "index" + "\t" + "label" + "\t" + "answer" + "\t" + "question" "\n"
+        # file.write(title)
         for index, output_dict in enumerate(output):
             write_in: str = str(index) + "\t" + str(index) + "\t" + output_dict['answer'] + '\t' + output_dict['question'] + '\n'
             file.write(write_in)
