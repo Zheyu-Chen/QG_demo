@@ -67,7 +67,7 @@ class QGPipeline:
         # write output to file "output.txt"
         file = open("output.txt", "w")
         for ouput_dict in output:
-            write_in: str = ouput_dict['answer'] + '\t' + ouput_dict['question'] + '\n'
+            write_in: str = ouput_dict['happy'] + '\t' + ouput_dict['question'] + '\n'
             file.write(write_in)
         file.close()
 
