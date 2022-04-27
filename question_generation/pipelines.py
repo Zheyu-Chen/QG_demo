@@ -68,7 +68,7 @@ class QGPipeline:
         file = open("output.txt", "w")
         title = "index" + "\t" + "label" + "\t" + "answer" + "\t" + "question" "\n"
         file.write(title)
-        for index, output_dict in output:
+        for index, output_dict in enumerate(output):
             write_in: str = index + "\t" + output_dict['answer'] + '\t' + output_dict['question'] + '\n'
             file.write(write_in)
         file.close()
