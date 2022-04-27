@@ -66,8 +66,10 @@ class QGPipeline:
         output: list  = [{'answer': example['answer'], 'question': que} for example, que in zip(qg_examples, questions)]
         # write output to file "output.txt"
         file = open("output.txt", "w")
-        for ouput_dict in output:
-            write_in: str = ouput_dict['answer'] + '\t' + ouput_dict['question'] + '\n'
+        title = "index" + "\t" + "label" + "\t" + "answer" + "\t" + "question" "\n"
+        file.write(title)
+        for index, output_dict in output:
+            write_in: str = index + "\t" + output_dict['answer'] + '\t' + output_dict['question'] + '\n'
             file.write(write_in)
         file.close()
 
