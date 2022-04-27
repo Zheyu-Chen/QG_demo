@@ -1,2 +1,5 @@
 *.pt
 __pycache__
+
+question_generation.ipynb
+notebooks
