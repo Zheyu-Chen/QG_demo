@@ -51,6 +51,7 @@ class QGPipeline:
     def __call__(self, inputs: str):
         with open("source/" + inputs, "r", encoding="utf-8") as f:
             content = f.read()
+        print(content)
         content = " ".join(content.split())
         sents, answers = self._extract_answers(content)
         flat_answers = list(itertools.chain(*answers))
