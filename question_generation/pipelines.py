@@ -145,6 +145,7 @@ class QGPipeline:
 
     def _prepare_inputs_for_qg_from_answers_hl(self, sents, answers):
         inputs = []
+        print(answers)
         for i, answer in enumerate(answers):
             if len(answer) == 0: continue
             for answer_text in answer:
