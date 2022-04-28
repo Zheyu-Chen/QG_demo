@@ -101,25 +101,21 @@ class QGPipeline:
     def _extract_answers(self, context):
         sents, inputs = self._prepare_inputs_for_ans_extraction(context)
         # print("inputs: " + str(inputs))
-        all_answers = []
-        for input in inputs:
-            inputs = self._tokenize(input, padding=True, truncation=True)
-            # print("sents: " + str(sents))
-            # print("inputs: " + str(inputs))
+        inputs = self._tokenize(inputs, padding=False, truncation=True)
+        # print("sents: " + str(sents))
+        # print("inputs: " + str(inputs))
 
-            outs = self.ans_model.generate(
-                input_ids=inputs['input_ids'].to(self.device),
-                attention_mask=inputs['attention_mask'].to(self.device),
-                max_length=32,
-            )
-            # print("outs: " + str(outs))
-            dec = [self.ans_tokenizer.decode(ids, skip_special_tokens=False) for ids in outs]
-            answers = [item.split('<sep>') for item in dec]
-            for ans in answers:
-                all_answers.append(ans)
-            print("dec: " + str(dec))
-            print("answers: " + str(answers))
-        answers = [i[:-1] for i in all_answers]
+        outs = self.ans_model.generate(
+            input_ids=inputs['input_ids'].to(self.device),
+            attention_mask=inputs['attention_mask'].to(self.device),
+            max_length=32,
+        )
+        # print("outs: " + str(outs))
+        dec = [self.ans_tokenizer.decode(ids, skip_special_tokens=False) for ids in outs]
+        answers = [item.split('<sep>') for item in dec]
+        print("dec: " + str(dec))
+        print("answers: " + str(answers))
+        answers = [i[:-1] for i in answers]
 
         return sents, answers
 
