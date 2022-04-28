@@ -65,13 +65,14 @@ class QGPipeline:
 
         qg_inputs = [example['source_text'] for example in qg_examples]
         questions = self._generate_questions(qg_inputs)
-        output: list  = [{'answer': example['answer'],  'question': que} for example, que in zip(qg_examples, questions)]
+        output: list = [{'answer': example['answer'], 'question': que} for example, que in zip(qg_examples, questions)]
         # write output to file "output.txt"
         file = open("output.txt", "a")
         # title = "index" + "\t" + "label" + "\t" + "answer" + "\t" + "question" "\n"
         # file.write(title)
         for index, output_dict in enumerate(output):
-            write_in: str = str(index) + "\t" + str(index) + "\t" + output_dict['answer'] + '\t' + output_dict['question'] + '\n'
+            write_in: str = str(index) + "\t" + str(index) + "\t" + output_dict['answer'] + '\t' + output_dict[
+                'question'] + '\n'
             file.write(write_in)
         file.close()
 
@@ -147,36 +148,39 @@ class QGPipeline:
         for i, answer in enumerate(answers):
             if len(answer) == 0: continue
             for answer_text in answer:
-                sent = sents[i]
-                sents_copy = sents[:]
-                print("answer_text: " + answer_text)
-                print("sent: " + sent)
-                answer_text = answer_text.strip()
+                try:
+                    sent = sents[i]
+                    sents_copy = sents[:]
+                    print("answer_text: " + answer_text)
+                    print("sent: " + sent)
+                    answer_text = answer_text.strip()
 
-                ans_start_idx = sent.index(answer_text)
-                print("ans_start_idx: " + str(ans_start_idx))
-                sent = f"{sent[:ans_start_idx]} <hl> {answer_text} <hl> {sent[ans_start_idx + len(answer_text):]}"
-                sents_copy[i] = sent
+                    ans_start_idx = sent.index(answer_text)
+                    print("ans_start_idx: " + str(ans_start_idx))
+                    sent = f"{sent[:ans_start_idx]} <hl> {answer_text} <hl> {sent[ans_start_idx + len(answer_text):]}"
+                    sents_copy[i] = sent
 
-                source_text = " ".join(sents_copy)
-                source_text = f"generate question: {source_text}"
-                if self.model_type == "t5":
-                    source_text = source_text + " </s>"
+                    source_text = " ".join(sents_copy)
+                    source_text = f"generate question: {source_text}"
+                    if self.model_type == "t5":
+                        source_text = source_text + " </s>"
 
-                inputs.append({"answer": answer_text, "source_text": source_text})
-
+                    inputs.append({"answer": answer_text, "source_text": source_text})
+                except ValueError:
+                    print("error")
         return inputs
 
-    def _prepare_inputs_for_qg_from_answers_prepend(self, context, answers):
-        flat_answers = list(itertools.chain(*answers))
-        examples = []
-        for answer in flat_answers:
-            source_text = f"answer: {answer} context: {context}"
-            if self.model_type == "t5":
-                source_text = source_text + " </s>"
 
-            examples.append({"answer": answer, "source_text": source_text})
-        return examples
+def _prepare_inputs_for_qg_from_answers_prepend(self, context, answers):
+    flat_answers = list(itertools.chain(*answers))
+    examples = []
+    for answer in flat_answers:
+        source_text = f"answer: {answer} context: {context}"
+        if self.model_type == "t5":
+            source_text = source_text + " </s>"
+
+        examples.append({"answer": answer, "source_text": source_text})
+    return examples
 
 
 class MultiTaskQAQGPipeline(QGPipeline):
