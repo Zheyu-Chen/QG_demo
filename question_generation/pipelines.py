@@ -103,7 +103,7 @@ class QGPipeline:
         # print("inputs: " + str(inputs))
         all_answers = []
         for input in inputs:
-            inputs = self._tokenize(input, padding=False, truncation=True)
+            inputs = self._tokenize(input, padding=True, truncation=True)
             # print("sents: " + str(sents))
             # print("inputs: " + str(inputs))
 
