@@ -106,7 +106,7 @@ class QGPipeline:
             attention_mask=inputs['attention_mask'].to(self.device),
             max_length=32,
         )
-
+        print("outs: " + str(outs))
         dec = [self.ans_tokenizer.decode(ids, skip_special_tokens=False) for ids in outs]
         answers = [item.split('<sep>') for item in dec]
         print("dec: " + str(dec))
