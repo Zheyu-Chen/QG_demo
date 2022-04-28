@@ -53,10 +53,10 @@ class QGPipeline:
             content = f.read()
         # print(content)
         content = " ".join(content.split())
-        print(content)
+        # print(content)
         sents, answers = self._extract_answers(content)
-        print(sents)
-        print(answers)
+        # print(sents)
+        # print(answers)
         flat_answers = list(itertools.chain(*answers))
 
         if len(flat_answers) == 0:
@@ -98,6 +98,8 @@ class QGPipeline:
     def _extract_answers(self, context):
         sents, inputs = self._prepare_inputs_for_ans_extraction(context)
         inputs = self._tokenize(inputs, padding=True, truncation=True)
+        print("sents: " + sents)
+        print("inputs: " + str(inputs))
 
         outs = self.ans_model.generate(
             input_ids=inputs['input_ids'].to(self.device),
@@ -149,7 +151,7 @@ class QGPipeline:
 
     def _prepare_inputs_for_qg_from_answers_hl(self, sents, answers):
         inputs = []
-        print(answers)
+        # print(answers)
         for i, answer in enumerate(answers):
             if len(answer) == 0: continue
             for answer_text in answer:
