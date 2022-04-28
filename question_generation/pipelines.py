@@ -121,7 +121,7 @@ class QGPipeline:
                   padding=True,
                   truncation=True,
                   add_special_tokens=True,
-                  max_length=1024
+                  max_length=5096
                   ):
         inputs = self.tokenizer.batch_encode_plus(
             inputs,
