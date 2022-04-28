@@ -1,4 +1,34 @@
 
+Preface
+
+
+      Since December 2019, several cases of novel infectious diseases caused by novel coronavirus infection with predominantly pulmonary lesions have been detected in Wuhan, Hubei Province. As the outbreak spreads, such cases have been identified in other regions of China and outside China. The clinical features of this viral infection are fever, dry cough, shortness of breath, generally low or decreased peripheral blood leukocytes, and inflammatory changes on chest radiographs. The World Health Organization (WHO) confirmed and named its pathogen COVID-19, a novel coronavirus belonging to the genus β. It was designated as a Public Health Emergency of International Concern (PHEIC) on January 31, 2020.
+
+
+      To improve the knowledge and understanding of the general public and related industries about the novel coronavirus pneumonia, guide personal prevention, reduce the risk of transmission, and prevent the disease scientifically, our society has urgently organized the compilation of the book "Concordia Novel Coronavirus Pneumonia Protection Manual". The book is divided into six parts: understanding novel coronavirus pneumonia, symptoms, medical care, isolation, treatment, preventive measures, prevention for special populations, psychological support, and nutritional advice for novel coronavirus pneumonia protection, to answer the public's questions in the fight against novel coronavirus pneumonia.
+The elderly, children, and pregnant women are the groups that need special attention in the prevention and control of novel coronavirus pneumonia outbreaks. Therefore, we have developed specific protective measures for these populations, which we hope will be useful.
+Please refer to the latest version provided by the QR code at the end of this article for any inaccuracies in the following contents. If there are any errors, please feel free to correct them.
+Coronavirus (CoV) belongs to Nidovirales, Coro⁃naviridae, Orthocoronavirinae, and is a class of RNA viruses with a capsid and a linear single-stranded positive-stranded genome. The viral genome has a methylated capsid structure at the 5′ end and a poly(A) tail at the 3′ end, and the genome is 27-32 kb in length, which is the largest genome of any RNA virus known to date. Coronaviruses are widespread in nature and are named for the presence of many small protrusions (spines) on the exterior of the virus, resembling a corolla (Figure 1).
+Coronaviruses infect only vertebrates and are associated with a wide range of diseases in humans and animals, causing multiple systemic disease manifestations including respiratory, digestive, and neurological diseases as well as the cardiovascular system of humans and animals.
+According to the phylogenetic tree, coronaviruses can be divided into four genera: α, β, γ, and δ, where β genus coronaviruses can be further divided into four independent subgroups A, B, C, and D groups. Animal coronaviruses include mammalian coronaviruses and avian coronaviruses. Mammalian coronaviruses are mainly α and β genus coronaviruses, which can infect a variety of animals including bats, pigs, dogs, cats, rats, cattle, horses, etc. Avian coronaviruses mainly originate from γ and δ genus coronaviruses, which can cause disease in a variety of avian species such as chickens, turkeys, sparrows, ducks, and geese and pigeons.
+Coronaviruses that can infect humans are referred to as human coronaviruses. To date, in addition to the novel coronavirus that caused the current outbreak of viral pneumonia in Wuhan, a total of 6 human infectious coronaviruses (HCoV-229E, HCoV-OC43, SARS-CoV, HCoV-NL63, HCoV-HKU1 and MERS-CoV) have been identified. Among them, four coronaviruses cause common human infections but are less pathogenic and generally cause only mild respiratory symptoms similar to the common cold; the other two coronaviruses - severe acute respiratory syndrome coronavirus and Middle East respiratory syndrome coronavirus, also commonly known as SARS coronavirus and MERS coronavirus can cause severe respiratory diseases. According to the World Health Organization (WHO) and domestic experts, the source of the viral pneumonia outbreak was the seventh member of the coronavirus family, which was named COVID-19 by WHO on February 11, where "Co" stands for "coronavirus" and "Vi" stands for "coronavirus. On February 11, the World Health Organization named it COVID-19, where "Co" stands for "coronavirus", "Vi" for "virus", and "D" for "disease". On the same day, the International Committee on Taxonomy of Viruses (ICTV) announced its official classification as SARS-CoV-2, which is the same "species" as SARS virus. A Chinese research team discovered that the new coronavirus has recently generated 149 mutation sites and evolved two subtypes, subtype L and subtype S. It was found that these two subtypes showed great measurement differences in terms of geographical distribution and proportion in the population. The S subtype is relatively old, while the L subtype is more aggressive and more infectious. An in-depth understanding of the different subtypes will help to differentiate the treatment and prevention and control of NCCP.
+Most of the knowledge on the physicochemical properties of human coronaviruses comes from studies on SARS-CoV and MERS-CoV. Coronaviruses are sensitive to heat and are moderately stable in suitable maintenance solution at 4°C and can be stored for several years at -60°C. However, the activity of the virus decreases with increasing temperature, e.g., HCoV-229E can lose its infectivity at 56°C for 10 minutes or 37°C for several hours, SARS-CoV can survive for 4 days at 37°C, and heating at 56°C for 90 minutes and 75°C for 30 minutes can inactivate the virus. virus. Human coronaviruses are not acid- or alkali-resistant, and the optimal pH for virus replication is 7.2. They are sensitive to organic solvents and disinfectants, and 75% alcohol, ether, chloroform, formaldehyde, chlorinated disinfectants, peroxyacetic acid and UV light can inactivate the virus. Among human coronaviruses, SARS-CoV can survive for at least 10 days in urine at room temperature of 24°C, more than 5 days in sputum and feces of patients with diarrhea, and about 15 days in blood, and 2-3 days on the surfaces of various objects such as plastic, glass, mosaic, metal, fabric and copy paper.
+At present, the survival time of novel coronavirus at room temperature is unknown, but it has great similarity to SARS virus and many analogies can be drawn: for example, it is heat sensitive and can be inactivated at 56°C for 30 minutes, while organic solvents and disinfectants such as 75% alcohol, peracetic acid, chlorine-containing disinfectants (except chlorhexidine) are effective in killing novel coronavirus, and UV light can also inactivate the virus.
+The new coronavirus pneumonia outbreak started in Wuhan and has spread rapidly since then, and is now spreading rapidly in many countries around the world. As of 24:00 Beijing time on March 10, the National Health and Welfare Commission received cumulative reports from 31 provinces (autonomous regions and municipalities directly under the Central Government) and the Xinjiang Production and Construction Corps that there were 16,145 confirmed cases (including 4,492 severe cases), 61,475 cumulative cured cases, 3,158 cumulative deaths, 80,778 cumulative reported confirmed cases, and 285 existing suspected cases. A total of 675,886 close contacts have been traced, and 14,607 close contacts are still under medical observation. There were 13 new confirmed cases in Hubei (13 cases in Wuhan), 1,471 new cured cases (1,212 cases in Wuhan), 22 new deaths (19 cases in Wuhan), and 15,671 confirmed cases (14,514 cases in Wuhan), including 4,412 serious cases (4,217 cases in Wuhan). There were 49,056 cumulative cured cases (Wuhan 33,041 cases), 3,046 cumulative deaths (Wuhan 2,423 cases), and 67,773 cumulative confirmed cases (Wuhan 49,978 cases). There were 6 new suspected cases (6 in Wuhan) and 198 existing suspected cases (192 in Wuhan). 10 new confirmed cases were reported from 0-24 March 10 (6 in Beijing, 2 in Shanghai, 1 in Shandong and 1 in Gansu). As of 24:00 on March 10, a total of 79 confirmed cases were reported from overseas. A total of 177 confirmed cases were received from Hong Kong, Macao and Taiwan: 120 cases in Hong Kong SAR (65 discharged, 3 deaths), 10 cases in Macao SAR (10 discharged), and 47 cases in Taiwan (17 discharged, 1 death).
+The country's daily new confirmed cases and new suspected cases remained in double digits for five consecutive days, except for Wuhan in the last five days, two new confirmed cases locally, the epidemic overall remains at a low level, the prevention and control situation continues to improve. However, the number of confirmed cases in Hubei and Wuhan is still high, the task of prevention and control of the epidemic is still arduous and heavy, and the rapid development of the epidemic abroad brings uncertainty, so we must make further efforts, do our best, continue to grasp the two positions of hospitals and communities, and be confident to overcome the epidemic.
+As of 21:00 Beijing time on March 8, 74 countries and regions worldwide were affected by the outbreak. There are 26,210 cumulative confirmed cases outside of China, 22,522 existing confirmed cases, 549 cumulative deaths, and 3,139 cumulative cured cases. With the overall number of infections in China gradually decreasing, the novel coronavirus is now spreading rapidly in other parts of the world mainly outside of China, especially in countries such as South Korea, Italy and Iran, where more than 5,000 cases have been confirmed. The World Health Organization (WHO) officially announced at a press conference in Geneva on March 11 that the new coronavirus pneumonia (COVID-19) was classified as a global pandemic, the last time it was also classified as a global pandemic was influenza A (H1N1) in 2009, which was the first time coronavirus infection was assessed as a global pandemic. SARS in 2003 did not reach this level either. The new coronavirus has entered global pandemic status. This is another escalation of the epidemic trend of the new coronavirus following the WHO's declaration on January 31, Beijing time that this new coronavirus outbreak in China constitutes a public health emergency of international concern (Public Health Emergency of International Concern, PHEIC). In a March 11 release, WHO noted that "in the past two weeks, the number of COVID-19 cases outside China has increased 13-fold and the number of countries affected by the outbreak has increased two-fold. There are now more than 118,000 confirmed cases in 114 countries worldwide, with a cumulative total of 4,291 unfortunate deaths. In the coming weeks, we believe that the number of confirmed cases, the number of deaths and the number of countries affected by the outbreak will climb further ...... Therefore, we conduct an assessment that COVID-19 can be considered a pandemic."
+With the development of the epidemic, people have gradually become more aware of the harmful effects of the virus. As with SARS, the new coronavirus is a general susceptibility of the population. Young adults are less ill after infection, and may only show symptoms such as low fever and malaise; the elderly and those with underlying diseases are more ill after infection, and even show heavy or critical illness, with a poorer prognosis; children are susceptible to the new coronavirus, but have relatively mild symptoms after infection, and are much less likely to become seriously ill. The virus easily attacks human lung tissue and causes "pneumonia". Further research is needed to determine whether infection is immunogenic; the proportion of true asymptomatic infections is not known, but is relatively rare and is not a major driver of transmission.
+Lung and immune system damage is predominant after neo-coronavirus infection. Other organs vary depending on the underlying disease and are mostly secondary to damage.2020 From February 16 to 24, 2020, a team from Huazhong University of Science and Technology completed the pathologic autopsy of the remains of nine cases of new coronavirus pneumonia. A report on the gross observations of the systematic autopsy of dead bodies with novel coronavirus pneumonia was published in the February 2020 advance issue of the Journal of Forensic Medicine. The report showed that the lesions of the new coronavirus infection remained focused on the lungs, considering that the ground glass-like shadow seen on imaging corresponded to the grayish-white lesions of the alveoli seen with the naked eye, suggesting that new coronavirus pneumonia mainly caused an inflammatory response characterized by deep airway and alveolar damage; the fibrosis and solid changes in the lungs were not as severe as those caused by SARS, while the exudative response was more pronounced than that of SARS, which may be related to the fact that this patient had only 15 days from diagnosis to death and the disease duration This may be related to the shorter duration of illness from diagnosis to death in this patient.
+In addition, regarding the nervous system, the report concluded that cerebral edema and mild atrophy of the cerebral cortex were seen on visual inspection. Combined with the clinical data, the patient was old, had multiple cerebral infarcts and sequelae of cerebrovascular disease, no infection-specific manifestations were seen on visual inspection of the brain, and whether the virus invaded the central nervous system is to be verified histopathologically. Further studies are needed to determine whether there are signs of damage to the myocardium and epicardium, kidneys, spleen, and gastrointestinal organs associated with viral infection.
+
+Usually the virus is transmitted in several ways: first, droplet transmission, through droplets generated by coughing, sneezing, and talking into susceptible mucosal surfaces; second, contact transmission: touching one's mouth, nose, or eyes after touching something an infected person has touched leads to virus transmission; third, aerosol transmission: the possibility of transmission exists when the pathogen is exposed to high concentrations of aerosols in a relatively closed environment for a long time; and Viral nucleic acids can be detected in the stool of patients with confirmed novel coronavirus, suggesting the possible presence of the virus, but there is no clear evidence of a gastrointestinal mode of transmission. For novel coronaviruses, isolation and protection measures for each of these routes should be done.
+
+The "Treatment protocol for novel coronavirus pneumonia (trial version 7)" issued by the National Health and Wellness Commission specifies that droplet transmission via the respiratory tract is the main route of novel coronavirus transmission. Infected persons cough, sneeze and talk when they discharge secretions and droplets, and susceptible persons inhale and become infected, but droplets have a limited distance of transmission in the air, and the activity of the virus decreases significantly after 2 hours. However, it has been suggested that novel coronaviruses can also be transmitted through aerosols, where droplets are mixed in the air to form aerosols that can remain in the air for a long period of time and be inhaled by humans and infected. The environment where the risk of aerosol exposure is high is in hospitals, where it is generated during operations such as tracheal intubation/extraction, chest compressions, bronchoscopy, and nebulizer therapy. In addition, droplets can settle on the surfaces of surrounding objects or through indirect contact, and the virus enters the body through the eyes, nasal and oral mucosa. Currently, some studies have isolated novel coronaviruses in the feces and urine of infected patients, and attention should be paid to fecal and urine contamination of the environment causing aerosol or contact transmission.
+
+Although respiratory droplet transmission is the main route of transmission of novel coronavirus, contact transmission is also one of the routes of transmission of novel coronavirus. Direct contact transmission refers to the infection of susceptible people who come into contact with various body secretions of patients, such as saliva, tears, urine, vomit and other secretions and excretions.
+
+Although there are no experimental studies to determine the concentration of the virus in body fluids and excretions of patients, the general public is still advised to avoid contact with the secretions and excretions of patients, or to avoid contact with all secretions and excretions of others for precautionary reasons. In case of inadvertent contact, disinfection should be carried out promptly. Many studies have shown that there is indirect contact transmission of novel coronaviruses. Some studies have shown that novel coronavirus can survive for several hours on smooth surfaces such as door handles and elevator buttons, and even for several days if the temperature (22-25°C) and humidity (40%-50%) are suitable, suggesting attention to environmental disinfection.
+
 Recently, studies have demonstrated the possibility of aerosol transmission of novel coronavirus, and health care should take the necessary precautions. For non-medical personnel, aerosol transmission is an extremely rare mode of transmission. However, viral nucleic acid can be detected in the feces of patients with confirmed novel coronavirus, so care should be taken to cover the toilet lid when flushing the toilet, disinfect the toilet regularly, and pay attention to the disinfection treatment of sewage in the sewer system in all communities and villages with confirmed or suspected cases.
 
 Recent reports indicate that, following several cases of novel coronavirus infection in children, cases of novel coronavirus infection in newborns have been identified. on February 5, 2020, two cases of novel coronavirus pneumonia in newborns were diagnosed in Tongji Hospital, affiliated with Tongji Medical College of Huazhong University of Science and Technology, with the youngest diagnosed being born just 30 hours ago. Although there is no definite evidence of vertical mother-to-child transmission of novel coronavirus, the possibility of vertical transmission still exists and needs to be given high priority.
@@ -46,6 +76,400 @@ Patients with stable chronic diseases should strengthen self-management, treat a
 When going to the hospital, you should learn as much as possible about the proposed medical institution in advance through the Internet or by phone, make appointments and preparations, and familiarize yourself with the hospital department layout and step-by-step procedures to reduce the consultation time. Patients and accompanying family members should wear a medical surgical mask or N95 mask throughout the journey to the hospital and in the hospital. If possible, avoid taking public transportation to the hospital. Maintain hand hygiene at all times and have a portable alcohol-based hand sanitizer available. Keep as much distance as possible between people (at least 1 meter) while on the road and in the hospital. If transportation is contaminated while on the road, it is recommended that all surfaces contaminated with respiratory secretions or body fluids be disinfected with a chlorinated disinfectant or peracetic acid disinfectant. Avoid touching your mouth, nose and eyes with your hands as much as possible. When sneezing or coughing, cover your mouth and nose with a tissue or elbow. Try to use hand disinfectant after touching hospital items such as hospital door handles, curtains, doctors' white coats, etc. If you cannot disinfect your hands in time, do not touch your mouth, nose or eyes with your hands. During hospital visits, reduce the length of stay in the hospital as much as possible.
 
 After returning home from the hospital, change your clothes immediately, wash your hands carefully with running water, wash your clothes as soon as possible, and treat them with 84 disinfectant first if possible. If suspicious symptoms (including fever, cough, sore throat, chest tightness, dyspnea, malaise, nausea and vomiting, diarrhea, conjunctivitis, muscle aches, etc.) appear, seek prompt medical attention according to your condition and inform the receiving physician of your activity history for the past 2 weeks.
+
+
+
+
+Home isolation is the main non-pharmaceutical intervention and low-cost measure to contain an epidemic, and personal protective measures such as self-isolation are one of the effective measures to control the epidemic of infectious diseases. As the epidemic progresses, specific isolation measures do not vary from place to place, and home isolation should be carried out according to the specific requirements of each place. Also, according to the changing dynamics of the epidemic outside the country, people returning from abroad should
+
+During home isolation, the role of community health centers and hospitals should be utilized. Isolated persons can seek advice and assistance from community doctors at home by phone or WeChat. Community doctors can also understand and observe the health status of isolated persons through telephone and WeChat video, and provide follow-up guidance. If the person is not available for isolation and observation at home or in the hospital, he or she can go to the local centralized isolation site for isolation.
+
+(1) Individuals with suspected symptoms
+
+Individuals with suspected symptoms should first isolate themselves and seek medical attention at the nearest fever clinic as soon as possible, for details, please refer to "(1) Suspected symptoms in yourself or your family" in "2.
+
+(2) Close contacts and suspected exposed persons
+
+Close contacts and suspected exposures are subject to isolation for medical observation.
+
+Close contacts are anyone who has had close contact with the source of infection (patients with novel coronavirus pneumonia and carriers of the pathogen) and may have been infected. This includes the following.
+
+(1) Living, studying and working together with the patient as colleagues in the same office or classmates in the same classroom or dormitory.
+(2) Health care workers who treat and care for the patient, relatives and friends who visit the patient, or other persons who have had close contact with the patient.
+(3) The patient travels on the same transport with close contact, including fellow passengers (family members, colleagues and friends, etc.) who have cared for the patient on the transport, as well as other passengers and crew members who, after investigation and assessment, are considered likely to have close contact with the patient.
+(4) Field investigators investigated and assessed to be in line with other persons in contact with close contacts.
+Suspected exposed persons are those who are exposed to wildlife that tests positive for novel coronavirus and its contaminated articles and environment, and who are not effectively protected at the time of exposure, such as processing, selling, handling, distribution or management.
+
+Self-isolation methods are as follows.
+
+1) Place the isolated person in a well-ventilated, separate room. If a separate room is not available, the caregiver should also maintain a distance of at least 1 meter from close contacts.
+(2) Family members should wear masks when entering the isolated person's activity space. Deny visits from people inside or outside the family.
+3) Limit the range of movement of isolated persons and ensure that shared areas (toilets and bathrooms, etc.) are well ventilated.
+4) Do not spit, and cover your mouth and nose with a tissue or elbow sleeve when coughing or sneezing.
+5) Wash your hands regularly. When washing hands with soap and water, it is best to use disposable hand wipes. Minimize and avoid contact with supplies used by close contacts (cell phones, remote controls, utensils and towels, etc.), disinfect public supplies (tables, chairs and door handles, etc.), and recommend the use of chlorinated disinfectants and peroxyacetic acid disinfectants.
+6) Wear good disposable gloves and masks to clean and disinfect the home environment, wet mop the floor with chlorinated disinfectant daily, and seal and dispose of garbage properly. Keep the home environment clean.
+
+Subjects under observation should seek immediate medical attention as soon as they develop symptoms, especially of acute respiratory infections, including fever, cough, sore throat, and difficulty breathing or diarrhea, as recommended below.
+
+1) Isolated persons should wear a mask and keep more than 1 meter away from other people once they develop symptoms (this should be done for both transportation or medical facilities).
+(2) Public transportation should be avoided as much as possible, you can call 120 or drive to the hospital, pay attention to open the car windows to keep ventilation, and disinfect the private car as required when needed.
+(3) All personnel who come into contact with the sick person and medical personnel should wash their hands promptly.
+4) Any part of the vehicle contaminated by respiratory secretions or body fluids should be disinfected promptly (1 part bleach + 99 parts water).
+
+The observed subjects can resume normal school, work and life after the observation period of 14 days from the last unprotected exposure or suspected exposure to the case, and those who have not developed the disease can resume normal school, work and life.
+
+Both close contacts and suspected exposures should stop self-isolating at home and seek prompt medical attention as soon as one of the following occurs.
+1) The presence of dyspnea (including chest tightness, breath-holding, and shortness of breath that worsens with activity).
+2) Problems with consciousness (including drowsiness, talking nonsense, confusion between day and night, etc.)
+3) Diarrhea.
+4) High fever over 39°C.
+5) Other family members showing suspicious symptoms of new coronavirus infection.
+
+
+
+
+(1) Please refer to the latest version of the recommended protocol for the treatment of "novel coronavirus pneumonia" at Peking Union Medical College Hospital.
+
+(2) See the latest version of the National Health Commission's "Novel Coronavirus Pneumonia Treatment Protocol".
+
+
+
+
+
+Universal precautions can be summarized in fifteen words: "wear a mask, wash your hands frequently, cover your nose and mouth, gather less, and exercise more".
+
+(A) Wearing a mask
+
+Wearing a mask is one of the most important means of preventing respiratory infections such as novel coronavirus pneumonia.
+
+What kind of masks work?
+
+Do not choose: paper masks, cotton masks, sponge masks, activated charcoal masks.
+You can choose: medical surgical masks, N95 masks (Figure 3).
+
+
+When to wear a mask?
+
+When you go out and have contact with others, you should wear a mask. Especially when you go to the hospital, take public transportation, or stay in a relatively confined or crowded space for a long time, you should wear a mask reasonably.
+
+
+How to choose a mask?
+
+General population: the general public, public transportation drivers, cab drivers, sanitation workers, public place service personnel and other on-duty period is recommended to use medical surgical masks, conditional and physical condition allows the conditions, can wear KN95/N95 and above particulate protection masks.
+
+Special populations:People at high risk of exposure to suspected or confirmed cases are recommended in principle to wear medical protective masks and goggles. Patients with certain cardiopulmonary diseases should consult with a medical professional before wearing and choose a suitable mask under the guidance of a medical professional.
+
+What is a medical surgical mask?
+
+First look at the product identification on the outer packaging, product performance needs to comply with YY 0469 a 2011. the outer packaging clearly indicates the medical surgical mask. Medical surgical masks are divided into 3 layers, the outer layer has a water-blocking effect, which prevents droplets from entering the mask to the inside; the middle layer has a filtering effect, and the bacterial filtration efficiency of the mask should be not less than 95%; the inner layer near the mouth and nose is used to absorb moisture (Figure 4).
+
+
+How do I wear a mask?
+
+Wearing steps (Figure 5): ①Before wearing the medical surgical mask, you should check whether it is within the expiration date. ②Nose clip side facing up, dark side facing out (or fold facing down). ③Pull the folds up and down so that the mask covers the mouth, nose and jaw. ④Touch the fingertips of both hands along the metal strip of the nasal bridge, from the middle to the sides, and slowly press inward until it is tight against the bridge of the nose. ⑤ Adjust the mask appropriately so that the perimeter of the mask fits the face adequately.
+
+
+Steps for wearing a medical protective mask (Figure 6).
+1) Check the expiration date of the mask and the outer packaging.
+(2) Hold the mask fastened to the face with the convex side facing outward and the nose clip side facing upward.
+3) First set the lower lacing, then set the upper lacing.
+4) Touch the fingertips of both hands inward to press the nasal clip and gradually move outward to shape the clip.
+(5) Adjust the nose clip and lacing until no air leakage when blowing and inhaling.
+(6) contamination, damage and exceed the time limit of use instructions to replace, hold the ties and discarded in the medical (yellow) garbage can.
+
+
+
+How do special people wear masks?
+
+(1) Pregnant women wearing protective masks should pay attention to their own conditions and choose products with better comfort.
+(2) The elderly and patients with chronic heart and lung diseases will cause discomfort after wearing, and may even aggravate the original condition, should seek professional guidance from a doctor.
+(3) Children are in the growth and development stage, their faces are small, so they should choose children's protective masks.
+
+
+How often should I change my mask?
+
+If the mask is wet or soiled by secretions and the protective performance is reduced, it is recommended to replace it immediately. The public wears masks and does not have to use them once for a change, but can decide whether to use them for a longer period of time depending on the degree of cleanliness.
+
+How to dispose of the mask after use?
+
+After wearing, the mask should be removed in the correct way (Figure 7). Reuse of disposable masks is not recommended. If repeatedly used several times, in addition to the possible decrease in the protective effect of the mask, the dust, bacteria and viruses accumulated on the outer layer of the mask may contaminate the inner surface and cause infection. If the mask is used within the time limit and must be reused due to some special circumstances, do not directly take off the mask and stuff it in your pocket or bag, it should be folded (the side in contact with the nose and mouth should be folded inward) in a clean self-sealing bag to avoid contamination of the inside of the mask by the outside. After taking off the mask, you should wash your hands in time.
+
+
+The masks worn by healthy people have no risk of transmission of the new coronavirus and are generally replaced when they are deformed, wet or soiled resulting in reduced protective performance. The masks used by the healthy population can be disposed of according to the requirements of household waste classification.
+
+The masks worn by suspected cases or confirmed patients should not be discarded at will, and should be treated as medical waste and handled in strict accordance with the relevant procedures for medical waste, and should not enter the circulation market.
+
+In addition, masks should never be washed with water or alcohol and then reused. Cutting and shredding is not recommended for handling, as droplets may contaminate the scissors. Do not use boiling water to scald the mask either, the operation process will instead increase the risk of viral infection.
+
+How to avoid skin damage when wearing a mask for a long time?
+
+First of all, we should choose the right size mask, avoid using shoddy products, children should choose the right size, and apply some emollient lotion behind the ears of the face when wearing; secondly, we can change the position of the mask or take it off after wearing for a period of time to let the skin reduce pressure, and find that redness and damage should let the skin fully rest and be treated accordingly; finally, we can apply emollient lotion and dressing to reduce skin damage in the pressure area.
+
+(B) frequent hand washing, hand disinfection when necessary
+
+
+It is essential to wash your hands regularly and in the right way as it can effectively cut off the transmission of the virus.
+
+You should wash your hands promptly after coughing and sneezing, before and after touching outsiders or caring for patients, before and after preparing food, before eating, after going to the bathroom, after touching animals, after handling garbage, after outdoor sports, homework, shopping, and after touching money. If the dirt on your hands is not visible, use a no-rinse hand sanitizer that contains alcohol. Reduce contact with common objects and parts of public places; try to avoid touching your mouth, nose and eyes with your hands when you are not sure if your hands are thoroughly clean.
+
+Hand washing must be done with running water, not basin water, and rubbing time should be at least 20 seconds. You can't just wash your hands with water, you have to use soap or hand sanitizer to effectively remove pathogenic bacteria. If soap is used, the soap should be kept clean and dry. It is best to use hand sanitizer in disposable packages, such as using replacement packs, and to clean and disinfect the container before each dispense; when the soap is cloudy or discolored, it should be replaced. If you use alcohol-based hand sanitizer, please pay attention to the expiration date of "use after opening" in the product description, generally not more than 30 days after opening the bottle; do not "rub" dry on your clothes after washing your hands, prepare dry hand towels or dryers in advance.
+
+Hand washing steps should be done correctly (Figure 8).
+1) Wet your hands under running water.
+2) Take an appropriate amount of hand sanitizer (soap) and apply it evenly to the entire palm, back of the hand, fingers and fingertips.
+(3) carefully rub hands for at least 15 seconds, as follows: a. palms relative to each other, fingers together, rubbing each other; b. palms and hands along the back of the fingers rubbing each other, exchange; c. palms relative to each other, hands cross fingers rubbing each other; d. bend fingers so that the knuckles in the other hand palm rotating rubbing, exchange; e. right hand holding the left thumb rotating rubbing, exchange; f. will be five finger tips together in the palm of the other hand, rotating and rubbing, and exchanging.
+4) Rinse hands thoroughly under running water.
+5) Dry your hands and take an appropriate amount of hand lotion for skin care.
+
+
+(C) diligent ventilation, maintain a clean living and working environment
+
+
+Diligently open windows, more ventilation, ventilation 2 to 3 times a day, no less than 30 minutes each time, need to pay attention to the temperature difference between indoor and outdoor and cause colds and the adaptation of the population. Families with conditions can also use circulating air disinfection machines, which are recommended to be used with windows and doors closed. Air conditioning filters and filters should be cleaned and disinfected monthly. The disinfection method can be used with an effective chlorine content of 250mg/L chlorine disinfection solution sprayed until wet, the role of 30 minutes. The cleaning and disinfection methods for different environments can be referred to the relevant contents of the third, fourth, fifth and sixth parts of this chapter.
+
+
+
+(1) Reduce unnecessary going out, especially during the Spring Festival, you should visit friends and relatives and gather less, cancel the plan of going out for travel and visiting relatives, and try to rest at home; avoid going to closed, airless public places and crowded places, such as: shopping malls, stations, theaters, Internet cafes, exhibition halls, etc.
+
+(2) Please wear a mask when you go out. Please refer to "(1) Wearing a mask" in "I. General precautions" in this chapter.
+
+(3) Wash your hands regularly. Hand washing can be found in "(2) Washing hands regularly" in this chapter "I. General preventive measures".
+
+(4) diligent ventilation. For details, please refer to "(3) diligent ventilation" in "I. General preventive measures" of this chapter.
+
+(5) When coughing or sneezing, cover your mouth and nose with tissues or clothing (Figure 9) and do not spit.
+
+
+(6) Reduce sharing items with others, including toothbrushes, tableware, meals, drinks, towels, bath towels, bed sheets, etc. Regularly disinfect dishes, furniture, floors, etc., and dry clothes and blankets regularly.
+
+(7) Do not touch, buy and eat wild animals (i.e., game); avoid markets that sell live animals (poultry, wildlife, etc.).
+
+(8) Keep supplies at home such as thermometers, medical surgical masks or N95 masks, and household disinfection supplies.
+
+(9) During the leave, eat lightly, pay attention to nutrition and exercise properly.
+
+(10) If you have suspected symptoms such as fever, malaise, cough, sore throat, chest tightness, dyspnea, weakness, or diarrhea, go to the fever clinic of the nearest medical institution. Medical attention can be found in Chapter 2, "Symptoms, medical care, isolation and treatment", "2.
+You can refer to the following table for the level of personal protection.
+
+
+
+(1) Home environment
+
+Ordinary families should have good ventilation indoors during disease epidemics, natural ventilation or mechanical ventilation. When opening windows in winter, attention needs to be paid to colds caused by large temperature differences between indoors and outdoors. After coming home, you should wash your hands with hand sanitizer and running water, or disinfect your hands with effective disinfectants such as iodophor, chlorine disinfectant and hydrogen peroxide disinfectant.
+
+
+The floor, desktop, furniture and other object surfaces are cleaned well every day and disinfected regularly. A concentration of 250mg/L chlorine-containing disinfectant can be prepared for wiping; metal, electrical appliances and other non-corrosive resistant object surfaces are wiped with 75% alcohol; the disinfection action time should be no less than 15 minutes, and then wiped with water to remove residual disinfectant. Water cups, tableware and other utensils can be disinfected by boiling or circulating steam for 15 minutes after washing; or refer to the instructions to use the disinfection cupboard for disinfection. Cleaning tools can be disinfected by soaking in chlorine disinfectant with an effective chlorine content of 500mg/L for 30 minutes and then washing and drying. After a guest (health status unknown) visits, disinfect the relevant object surfaces in the room in a timely manner. Personal protection should be provided during disinfection by wearing latex or nitrile gloves, waterproof aprons (or sleeved raincoats instead), masks, etc., and washing hands promptly after disinfection. Confirm the expiration date and dilution ratio of the disinfectant, and mix it well.
+
+When a family member shows suspicious symptoms, other family members should be isolated and sent to the doctor in a timely manner (see "2. Seeking medical attention" in "Chapter 2: Symptoms, medical attention, isolation, and treatment"). After consultation, disinfect the isolated room and contact items (e.g., living room floor, bathroom, furniture countertops, door handles, eating utensils, etc.).
+
+When a patient with novel coronavirus infection is present in the home, final disinfection should be performed after the patient leaves (e.g., hospitalization, death, release from isolation, etc.). The final disinfection of the patient's home includes the floor and walls of the living room, tables, chairs and other furniture countertops, door handles, the patient's dining utensils, clothes, bedding and other household items, toys, bathrooms including toilets, etc. Terminal disinfection is usually done by professionals and carried out by the local Center for Disease Control and Prevention. Other family members are close contacts and should be under medical observation for 14 days.
+
+
+(2) Private cars
+
+Under daily circumstances, private cars do not need to disinfection treatment, in open places, do a good job of ventilation. When opening the windows in winter, you need to pay attention to the temperature difference between inside and outside the car, do not cause a cold. In the underground parking lot and other confined environment, it is recommended to close the windows, open the air conditioning internal circulation way to ventilation.
+
+After entering a public place and returning to the vehicle, drivers and passengers are advised to use hand sanitizer for hand hygiene first. After having friends and relatives (health status unknown) aboard, promptly open the windows for ventilation and disinfect the relevant object surfaces in the vehicle by choosing a legal and effective disinfectant or disinfectant wipes for disinfection. Object surfaces can be disinfected with chlorine disinfectant, chlorine dioxide, etc. or disinfectant wipes. Hands and skin are recommended to choose effective disinfectants such as iodophor, chlorinated disinfectants and hydrogen peroxide disinfectants for hand and skin disinfection or quick-drying hand disinfectants for wiping and disinfection.
+
+Those with suspicious symptoms (suspicious symptoms include fever, cough, sore throat, chest tightness, dyspnea, fatigue, nausea and vomiting, diarrhea, conjunctivitis, muscle aches, etc.) should wear a medical surgical mask when riding in a private car, try to keep a distance from people in the same car, do not turn on the air conditioning internal circulation, and open the windows moderately for ventilation. After a person with suspicious symptoms gets out of the car, quickly open the windows for ventilation and disinfect the surfaces of the objects they touch (door handles, steering wheels, windows, windshields, seats, etc.).
+
+The final disinfection of the private car should be done promptly after the patient gets out of the car after riding in the private car with novel coronavirus infection. The scope of final disinfection for private cars includes object surfaces (seats, steering wheels, windows, door handles, etc.), air conditioning systems, and vomit. Chlorine dioxide is the recommended disinfectant of choice, and the car should be started and the air conditioning internal circulation turned on during disinfection treatment. The specific disinfection method is operated by professionals from local CDC agencies or qualified third parties, and the vehicle is not recommended to be used without disinfection treatment before. Other co-passengers are close contacts and should be under medical observation for 14 days.
+
+
+
+
+Should follow the State Council issued the "pneumonia mechanism issued [2020] No. 5" document requirements.
+
+Work plan on community prevention and control of pneumonia outbreak of novel coronavirus infection (trial)
+In order to implement the community-based prevention and control measures, guide the community to carry out the prevention and control of pneumonia outbreak of novel coronavirus infection in a scientific and orderly manner, detect cases early, effectively curb the spread and spread of the epidemic, and reduce the public health hazards caused by novel coronavirus infection, according to the "Prevention and Control of Infectious Diseases Law of the People's Republic of China", "Basic Medical Hygiene and Health Promotion Law of the People's Republic of China", "Emergency Public Health Emergency Regulations", "Emergency Plan for Public Health Emergencies", "Pneumonia Case Surveillance Program for Novel Coronavirus Infection" and other relevant documents, this work plan is formulated.
+I. Work requirements
+(a) Party and government-led, community mobilization, the implementation of grid-based, carpet management, the prevention and control measures to the letter.
+(B) the implementation of the "early detection, early reporting, early isolation, early diagnosis, early treatment" principle, and do a good job in the community new coronavirus infection pneumonia outbreak detection, prevention and control and emergency response work.
+II. Relevant definitions
+(i) Community
+Community" in this program refers to urban and rural communities (i.e. urban communities and villages) under the jurisdiction of street offices or township people's governments.
+(B) community outbreak division
+1. No cases were found in the community. It means that no confirmed cases of pneumonia with novel coronavirus infection were found among the community residents.
+2. There are cases or outbreaks in the community.
+A case in the community is defined as the presence of one confirmed case of pneumonia with novel coronavirus infection in a community population that has not yet had a sequel case.
+An outbreak is defined as the discovery of 2 or more confirmed cases in a small area (e.g., a household, a construction site, the same unit in a building, etc.) within 14 days, with the possibility of interpersonal transmission between cases due to close contact or the possibility of infection due to co-exposure.
+3. Community transmission outbreak. In the community, there are two or more cases of infection of unknown origin within 14 days, or outbreaks of a large number and size, with a continuous trend of transmission.
+(C) the epidemic point, the division of the epidemic area
+1. Epidemic site
+In the event of a case or outbreak in the community, the area where the case may have contaminated is identified as an outbreak site. In principle, places visited by the patient 3 days before the onset of the disease until the isolation and treatment, places where the patient stays for more than 1 hour and where the space is small and poorly ventilated should be classified as an outbreak site for management. An outbreak site is generally defined as one or several households, one or several offices, train or bus cars, the same flight, the same ward, the same building, etc.
+2. Infected areas
+If there is a community-transmitted outbreak, the community may be identified as an infected area according to the relevant provisions of the Law of the People's Republic of China on the Prevention and Control of Infectious Diseases.
+(iv) close contacts
+With the case after the onset of one of the following exposure scenarios, but did not take effective protection.
+1. people who live, study, work with the case, or otherwise have close contact, such as working in close proximity to the case or sharing the same classroom or living in the same house as the case.
+2. medical staff, family members or other persons who have similar close contact with the case, such as direct treatment and care of the case, visiting the patient or staying in the confined environment where the case is located, other patients and their companions in the same ward of the case.
+3. travel on the same means of transport as the case and have close contact with personnel, including those who have cared for the patient on the transport, the patient's fellow passengers (family members, colleagues, friends, etc.), and other passengers and crew members found to be in close contact with the patient after investigation and assessment.
+4. The site investigator investigates and then evaluates the personnel who are deemed to be in contact with other close contacts.
+Third, community prevention and control strategies and measures
+(i) No cases found in the community
+Implementing the strategy of "external prevention and importation", specific measures include organizational mobilization, health education, information, management of returnees from infected areas, environmental health management, and material preparation.
+1.Organizational mobilization
+Communities should establish an organizational system for the prevention and control of pneumonia outbreaks of new coronavirus infections, with street (township) and community (village) cadres, community health service centers and family doctors as the main focus, and encourage the participation of residents and volunteers to form a combination of full-time and part-time work teams, implement grid-based, carpet management, responsibility for the implementation of full coverage of the community (village), building (natural village), family, and the implementation of prevention and control Measures.
+2. Health education
+Make full use of a variety of means to carry out targeted pneumonia prevention and control knowledge of new coronavirus infection, actively advocate hygiene, eliminate bad habits, abandon littering, spitting and other uncivilized behavior, to create "everyone is the first person responsible for their own health" "my health I am in charge "The good atmosphere. Make the public fully understand the health knowledge, grasp the key points of protection, develop hand hygiene, more ventilation, keep clean good habits, reduce travel, avoid attending rallies, parties, take public transportation or go to crowded places to do a good job of protection, wear a mask, avoid contact with animals (especially wild animals), birds or their droppings.
+3．Information
+Disseminate information to the public about medical consultation; those with respiratory symptoms without fever go to community health protection centers (township health centers), those with fever go to fever clinics, and those with novel coronavirus infections go to sentinel hospitals. Daily information on local and local community outbreaks is released to suggest travel and travel risks.
+4. Management of returnees from infected areas
+Communities should issue notices requiring that people returning from infected areas should immediately register at their village branch or community and go to the local health center or village doctor or community health service center for medical checkups twice a day, while taking the initiative to self-isolate for 14 days. All those returning from infected areas with febrile respiratory symptoms should promptly seek medical clearance nearby and be isolated at home or at a government-designated location or hospital as required; their close contacts should also immediately self-isolate at home or at a locally designated location. During the isolation period, please keep in touch with local medical personnel or the CDC for follow-up observation.
+5. Environmental health management
+The community carries out comprehensive vector-biological prevention and control, mainly environmental remediation, supplemented by drug disinfection, and carries out sanitary cleaning of key places such as residential neighborhoods, garbage transfer stations and construction sites, disposes of garbage and dirt, and eliminates the breeding environment for rodents, cockroaches, mosquitoes, flies and other vector-biological organisms. Timely organization of comprehensive vector control and extermination to effectively reduce the density of vector organisms.
+6. Material preparation
+Communities and families stock up on essential prevention and control items and supplies, such as thermometers, masks, disinfection supplies, etc.
+(ii) The emergence of cases or outbreaks in the community
+The strategy of "internal prevention of spread and external prevention of export" includes the six measures mentioned above, as well as close contact management and disinfection.
+7. Close contact management
+Give full play to the role of community preventive health doctors, family contracted doctors, community cadres and other grid managers to conduct screening and implement home or centralized medical observation of close contacts of confirmed cases of pneumonia with novel coronavirus infection, and centralized observation sites should be clearly defined where available. Daily follow-up visits to the health status of close contacts, instructing the observation subjects to monitor changes in their own situation more sensitively and keep records. Make preparations for isolation control and transfer of patients to designated hospitals, etc.
+8. Disinfection
+The community should assist the CDC to disinfect the case homes, building units, unit offices, conference rooms and other epidemic points, as well as clean and disinfected public places.
+(iii) Community-transmitted epidemics
+The strategy of "internal prevention of spread and external prevention of export" includes the 8 measures mentioned above, as well as the 2 measures of blocking the infected area and restricting the gathering of people.
+9. Blockade of infected areas: Communities classified as infected areas may take measures to blockade the infected areas if necessary, restrict the access of people, and temporarily requisition houses and transportation.
+10. Restrict the gathering of people: Restrict or stop activities such as fairs, rallies and other gatherings of people in the community, and close public baths, spas, theaters, Internet cafes, KTVs, shopping malls and other public places. If necessary, suspend work, business and classes.
+
+
+
+
+(1) Public places with heavy flow of people and high mobility
+
+Suitable for shopping malls, restaurants, cinemas, KTV, Internet cafes, public baths, gymnasiums, exhibition halls, railway stations, subway stations, airports, bus stations and other public places.
+
+Staff in public places should monitor their own health and not go to work with illness if they have suspicious symptoms of novel coronavirus infection (such as fever, cough, sore throat, chest tightness, difficulty in breathing, mild nausea, weakness, slightly poor spirit, nausea and vomiting, diarrhea, headache, heartburn, conjunctivitis, mild muscle pain in the limbs or lower back, etc.). If suspicious symptoms of novel coronavirus infection are detected, staff should ask them to leave or contact the hospital promptly.
+
+Public use items and public contact items or parts should be cleaned and disinfected regularly.
+
+Maintain air circulation in public places. Ensure that the air conditioning system or exhaust fan is functioning properly, clean the air conditioning filter regularly, and strengthen the ventilation of open windows.
+
+Washrooms should be equipped with sufficient hand sanitizer to ensure that water supply facilities such as faucets are working properly. Disinfect sanitary facilities in a timely manner and use air disinfection spray to disinfect the air when necessary.
+
+Keep the environment clean and clear the garbage in time.
+
+In areas where the disease is endemic, the public should minimize visits to public places, especially avoiding places with heavy traffic and poor air circulation.
+
+(2) Workplace
+
+Commuting to and from work
+
+Wear disposable medical masks correctly. Try not to take public transportation, it is recommended to walk, ride or take private cars or shuttles to and from work. If you have to take public transportation, public trams are preferred. Be sure to wear a mask throughout the journey. Avoid touching objects in the car with your hands during the journey. When you leave work, wash your hands and wear a disposable medical mask, and when you return home, wash your hands after removing the mask. Use disinfectant wipes or 75% alcohol to wipe your cell phone and keys. Keep your home ventilated and hygienically clean, and avoid multi-person gatherings.
+
+Disinfection of public areas and air conditioners
+
+Public areas such as foyers, hallways, conference rooms, elevators, stairs, and restrooms must be disinfected daily, using spray disinfection whenever possible. The cleaning utensils used in each area should be separated to avoid mixing. In addition to daily routine cleaning and disinfection, bathrooms should be disinfected regularly and air disinfection should be carried out by spray.
+
+Central air conditioning system fan coils in normal use, regular disinfection of the air supply and return air outlets. If there is an epidemic, do not stop the fan operation, should be closed after the evacuation of personnel, the exhaust branch, run for a period of time to shut down the fresh air exhaust system, while disinfection. All-air system with return air should be completely closed the return air to ensure that the system runs with all fresh air.
+
+During the epidemic prevention period, do hand hygiene before and after taking off masks, put discarded masks in the garbage cans, and disinfect the garbage cans twice a day with 75% alcohol or chlorine-containing disinfectant.
+
+Entry work and elevator ride
+
+Before entering the office building, you should take a temperature test and go to the bathroom to wash your hands. If your body temperature exceeds 37.2℃, please do not enter the building to work, and go home to observe and rest, or go to the hospital if necessary.
+
+The frequency of elevator rides should be reduced, and passengers on low floors can take the stairs on foot. Carry toilet paper (gloves) with you, and press the elevator button through the toilet paper (gloves). Dispose of the toilet paper (gloves) properly after use. Stand on both sides of the hall door while waiting for the elevator, do not get too close to the hall door, and do not touch the passengers coming out of the elevator car face to face. After the passenger comes out of the car, press the button outside the elevator hall to prevent the elevator from closing and wait for a moment before entering the elevator. Avoid riding in the elevator with more than one stranger. Passengers who have enough time can wait patiently for the next elevator. Try not to use the elevator to carry things and reduce the contact between your belongings and the elevator car. Wash and disinfect your hands promptly after riding in the elevator.
+
+Elevator units should pay attention to the health of passengers, feverish people have a need to take the elevator (such as hospitals), and conditions allow, can be set up independently a special elevator for feverish people, and strengthen the maintenance and control of the elevator. For elevators with ventilation fans installed in the cabin, the ventilation fans should be kept open for a long time. For elevators without ventilation fans installed in the cabin, the cabin doors can be opened regularly for ventilation in combination with disinfection work. Each ventilation time should be at least 10 minutes. During a pneumonia epidemic, local disinfection (such as elevator key panels) and full disinfection can be alternated. If a confirmed or suspected case is found to have ridden in an elevator, the elevator operation should be stopped immediately and disposed of in accordance with the requirements of the health prevention department.
+
+Elevator disinfection work should be carried out by trained personnel with certain knowledge of disinfection, and accompanied by elevator maintenance personnel. Personnel should wear work clothes, gloves, work shoes, masks, hats, goggles, etc. when necessary. And prepare disinfection medicine and items, clean rags, spray cans, warning signs, mops, etc. Before starting disinfection, the elevator should first be stopped and warning signs set. Clean the elevator thoroughly and then disinfect it. If ultraviolet light is used for disinfection, the car door should be closed and the car should be irradiated by ultraviolet light for not less than half an hour. If disinfectant is used, a clean rag can be dipped into the disinfectant and wiped on the button panel, handrail and other parts frequently touched by passengers. Other parts such as hall door and car wall can be sprayed and coated with a small amount of spraying bottle. After disinfection for a specified period of time, wring out the wet rag and wipe the key panel and other parts to avoid corrosion of the elevator electronic components by the disinfectant. Other parts can be removed with a wet rag to avoid residual disinfectant damage to human body. After disinfection is completed, resume normal operation of the elevator, retrieve the warning sign, bring back the tools and make records of the elevator cleaning and disinfection. Staff take off protective equipment and bring it back in bags for disposal and personnel for sanitary disposal.
+
+Inside the office
+
+Keep the office area clean, it is recommended to ventilate 3 times a day for 20-30 minutes each time, and pay attention to keeping warm when ventilating. Maintain a distance of more than 1 meter between people, and wear a mask when working with multiple people and entering the bathroom. Maintain diligent hand washing, drink more water, and insist on strict hand washing before eating and after toileting in accordance with the six-step method.
+
+Daily disinfection of shared items in the office, especially common contact areas, e.g., kettles, phones, printers, etc. Disinfecting wipes or 75% alcohol wipes can be used. This can be increased to four times if used frequently. When working in the office, wash hands before and after passing paper documents, and wear a mask when passing documents.
+
+Participation in conferences and official visits
+
+Use telephone and video conferencing as much as possible to reduce centralized meetings. During face-to-face meetings, control the length of the meeting and recommend that all participants wear masks and wash their hands to disinfect before entering the meeting room. Separate meeting participants by more than 1 meter. When the meeting is too long, open the window for ventilation once. After the meeting, the venue and furniture must be disinfected. It is recommended to disinfect teaware by soaking in boiling water.
+
+Visitors are required to wear a mask. Before entering the office building, first conduct a temperature test, and introduce any history of Lakeland exposure and symptoms such as fever, cough and breathlessness. No such conditions and normal body temperature conditions, before entering the building for public work. Receive outsiders on both sides to wear masks.
+
+Canteen meals
+
+Adopt staggered meals. It is recommended that employees who are in a position to do so bring their own lunch boxes and bring them back to the office for meals after purchase to avoid crowding. The restaurant is disinfected once a day, and tables and chairs are disinfected after use. Disinfection of tableware is required at high temperature. Keep the operation room clean and dry, strictly prohibit the mixing of raw food and cooked food supplies, and avoid raw meat. It is recommended that nutritious meals be prepared, light and palatable.
+
+Official Travel
+
+Travelers must wear masks to travel and avoid dense crowds. Maintain a distance of more than 1 meter from human contact and avoid prolonged stay in public places.
+
+It is recommended that the interior and door handles of the shuttle bus be wiped with 75% alcohol once a day when traveling. The shuttle bus must wear a mask, and it is recommended that the shuttle bus be wiped with 75% alcohol to disinfect the interior and door handles after use.
+
+Logisticians
+
+Service personnel, security personnel and cleaning personnel must wear masks when working and keep a safe distance from people. Canteen procurement staff or supply staff must wear masks and disposable rubber gloves to avoid direct hand contact with meat and poultry raw materials, and wash hands and disinfect after removing gloves. Cleaning staff must wear disposable rubber gloves when working, and wash their hands after work to disinfect. Security personnel shall wear masks and carefully inquire and register the status of outsiders, and report any abnormalities in a timely manner.
+
+(3) Public transportation
+
+See "Technical Guidelines for Public Transport Disinfection Operations".
+
+Public transport disinfection operation technical guide
+
+I. Scope
+This guideline applies to the prevention and control of infection on public transport such as airplanes, trains, long and short-distance buses, buses, subways and ships in normal operation during the epidemic of pneumonia with novel coronavirus infection, including technical operations such as disinfection taken by staff and travelers on public transport.
+Second, the staff operating guidelines
+During an epidemic of novel coronavirus infection pneumonia, public transport staff need to carry out the following tasks.
+(A) do a good job of object surface disinfection. Under daily circumstances, the environment on public transportation should be kept clean and sanitary, and preventive disinfection measures should be taken; after the operation of public transportation such as airplanes, trains, subways, buses and ships, internal object surfaces (such as the inside of the body, driver's steering wheel, handrails inside the car, tables and chairs, etc.) should be sprayed or wiped with chlorine disinfectant containing 250 to 500 mg/L of effective chlorine, or effective of disinfectant wipes for wiping; seat covers and other textiles should be kept clean and regularly washed and disinfected.
+When vomiting occurs on public transportation, disinfectants (such as chlorinated disinfectants) or disinfectant dry towels should be used immediately to cover the vomit and disinfect the surface of the object after removing the vomit, and then use disinfectants such as Neosporin to disinfect the surface of the object.
+When there are suspected or confirmed cases, under the guidance of professionals, the contaminants should be completely removed before disinfection when there are visible contaminants; when there are no visible contaminants, 1000mg/L chlorine disinfectant or 500mg/L chlorine dioxide disinfectant can be wiped or sprayed for disinfection. The ground disinfection is sprayed once from the outside to the inside, with a spray volume of 100-300ml/㎡, and then repeatedly sprayed once from the inside to the outside after the indoor disinfection is completed. The disinfection time should be no less than 30 minutes.
+(B) strengthen the ventilation and air exchange. Under daily circumstances, natural ventilation or mechanical ventilation can be used. Aircraft, high-speed trains, subways and other relatively confined environments, it is recommended that the appropriate increase in air conditioning for air power to improve the number of air changes, and pay attention to regular cleaning and treatment of air conditioning filters; short-distance buses, buses and other public transport with open windows, when available, windows can be opened at low speed, but also during the stop and open the windows to maintain air circulation.
+When there are suspected or confirmed cases, disinfectants such as peroxyacetic acid, chlorine-containing disinfectants, chlorine dioxide and hydrogen peroxide are selected under unmanned conditions under the guidance of professionals, using the ultra-low volume spray method.
+(iii) Pay attention to personal protection. Under daily circumstances, it is recommended that staff wear medical surgical masks (or other higher level masks) and gloves; single-use gloves should not be reused, other reused gloves must be cleaned and disinfected daily, either by circulating steam or boiling for 30 minutes, or by first soaking in 500mg/L chlorine-containing disinfectant for 30 minutes, and then routine cleaning is sufficient. When there are suspected or confirmed cases, personal protection is carried out under the guidance of professionals.
+(iv) Hand hygiene. Hand hygiene measures should be strengthened and hand hygiene should be performed by staff at all times. Effective alcohol-containing quick-drying hand sanitizers are available. Under special conditions, hand sanitizers containing chlorine or hydrogen peroxide may also be used; hand sanitizers should be used to wash hands under running water when there are contaminants visible to the naked eye, and then disinfected.
+(v) Establishment of an emergency area. It is recommended that emergency areas be set up on public transportation, such as the back three rows of seats on airplanes, trains, and buses, where suspected or confirmed cases can be temporarily isolated when they appear.
+(vi) Health education. Always pay attention to the prevention and control of health education on public transport.
+Three, travelers operating guidelines
+(a) Wear masks and gloves. Travelers taking public transportation, it is recommended to wear medical surgical masks (or other higher level masks), and discarded in time at the end of the trip. Travelers who have the option to wear gloves, single-use gloves can not be reused, other reuse gloves need to pay attention to cleaning and disinfection, can circulate steam or boiling disinfection for 30 minutes, or first soak in 500mg / L of chlorine disinfectant for 30 minutes, and then routine cleaning can be.
+(ii) Hand hygiene. Pay attention to hand hygiene, travelers should enhance hand hygiene during the trip, and hand hygiene is required after the trip. Effective alcohol-containing quick-drying hand sanitizer can be used, and under special conditions, chlorine-containing or hydrogen peroxide hand sanitizer can also be used; hand sanitizer should be used to wash hands under running water when there are contaminants visible to the naked eye, and then disinfected.
+(C) pay attention to maintain distance. Travelers on public transport, when available, try to keep a certain distance between each other.
+(iv) Actively cooperate with the staff. In daily situations, listen to the arrangements of public transportation staff and do personal protection. When a suspected or confirmed case appears, listen to the staff's instructions, promptly self-isolate, follow the arrangements for screening and testing, and do not leave privately.
+
+
+
+(1) Schools and child care institutions
+
+1) Strengthen the ventilation of the teaching and living environment (e.g. classrooms, music rooms, dance rooms, reading rooms, nursery rooms, dormitories, teaching and research rooms) in schools and childcare institutions to maintain air circulation and clean indoor and outdoor environmental hygiene. Avoid holding school-wide or garden-wide indoor assemblies and other activities.
+(2) Implement hand hygiene, set up sufficient hand-washing taps, and equip hand sanitizer or soap for teachers and students to use; childcare institutions are implemented daily by caregivers for children to wash their hands regularly. Promote the correct hand washing technique.
+3) To strengthen preventive disinfection, public classroom places (such as music rooms, dance rooms, computer rooms) are recommended for a group of students to go in and disinfect once. Classroom desks, chairs, and other surfaces with high human contact can be disinfected by spraying or wiping with a chlorine-containing disinfectant with an effective chlorine level of 250-500 mg/L for 30 minutes and then washing with water. For objects that are not resistant to corrosion, 75% alcohol or 0.1% benzalkonium bromide (Neosporin) can be used for wiping and disinfection, and safety should be observed when using it. For large areas of floors and walls, chlorine disinfectant with an effective chlorine level of 250-500 mg/L can be sprayed from the inside out, the amount of spraying should be wet and without dripping, and the action time should be not less than 30 minutes.
+(4) Carry out various forms of health education in schools and childcare institutions to popularize the knowledge of prevention and control of respiratory infectious diseases. Establish a sound mechanism for contacting schools, parents, students and medical institutions, improve information collection and reporting channels, and ensure the smooth flow of information.
+(5) Strengthen health monitoring and material stockpiling. To have a person to implement the morning and afternoon checkups, do a good job of tracking the absence from school due to illness and the registration of the cause of the disease, and report in a timely manner when abnormalities such as an unusual increase in cases of respiratory infectious diseases are detected. Strengthen the stockpile of protective supplies, the school nurse's office to stock a certain number of medical masks, disposable gloves, hand sanitizer and cold medicine.
+(6) to carry out various forms of health education and popularize the knowledge of prevention and control of respiratory infectious diseases.
+(7) When symptoms such as fever, malaise, dry cough and chest tightness occur, you should immediately wear a mask and seek medical attention in a timely manner to avoid attending classes with illness. When a student or teacher is diagnosed with novel coronavirus infection, his or her close contacts should be placed under medical observation for 14 days. Schools and child care institutions are responsible for home visits to contact students who have left school or school to learn about their daily health status. Implement a daily and zero reporting system according to the requirements of disease prevention and control agencies to keep track of the daily increase or decrease of students with cases. Cooperate with the health and wellness department to handle the epidemic and other tasks.
+
+(2) Nursing homes
+
+During the disease epidemic, it is recommended that the nursing home implement closed management, in principle, do not receive visits from outsiders, the elderly can not leave the hospital to go out, no longer accept new elderly residents, the elderly who must go out should be closely observed after returning to the nursing home.
+
+Daily preventive measures:
+
+(1) Ensure that staff and nursing seniors master personal protective measures, hand hygiene requirements, sanitation and health habits to prevent novel coronavirus pneumonia, avoid sharing personal belongings, pay attention to ventilation, and implement disinfection measures.
+2) Establish health records of the elderly and staff, and conduct daily morning checkups and health registration.
+(3) Once the staff appear fever, cough, mild nausea, weakness, slightly poor mental, nausea and vomiting, diarrhea, headache, panic, chest tightness, conjunctivitis, mild limb or back muscle pain and other suspicious symptoms of new coronavirus infection, should immediately stop working and go to the hospital for medical examination and investigation, to exclude new coronavirus infection and other infectious diseases before re-entering the workplace.
+(4) Establish a registration system for visitors. If visitors have suspicious symptoms of novel coronavirus infection, their visits should be refused. All foreign visitors should wear medical surgical masks. Those with suspicious symptoms should refuse to visit.
+(5) ventilation to keep the indoor air fresh. Open the windows for at least 30 minutes every half day; if it is not suitable to open the windows for ventilation, mechanical ventilation equipment should be equipped to ensure that there is no indoor odor; during the epidemic season of respiratory infectious diseases, indoor ventilation should be strengthened, and if necessary, it is appropriate to use circulating air disinfection machines and other air disinfection; regularly clean and disinfect the air conditioning ventilation system. When opening windows in winter, attention should be paid to avoid colds caused by the large difference between indoor and outdoor temperatures.
+(6) Restrooms should be equipped with sufficient hand sanitizer, hand towels or hand dryers to ensure that water supply facilities such as faucets work properly. Advocate the elderly to develop the good habit of washing their hands frequently. Hand cream can be placed by the sink to make it easy to apply after washing hands.
+7) Ensure that the environment is clean and sanitary. Frequently dry the bedding and clothes of the elderly. Wipe the tables, chairs and surfaces of objects in the activity room with clean water once a day and disinfect them once or twice a week; wipe the floor, window sills, bedside tables and bed fences in the bedroom with clean water once a day; wipe the door handles, faucets, commode handrails and commode tank buttons with clean water once a day and disinfect them once or twice a week.
+(8) Prepare isolation rooms for the isolation and treatment of future elderly with suspected symptoms. The elderly with symptoms should be isolated in time to avoid transmission to other elderly. The isolation room should be set in a single room that is not densely populated, well ventilated, with a separate bathroom, and downwind of the nursing home. Use independent air conditioning as much as possible, if you need to use central air conditioning, the new air system should be turned off. The domestic garbage in the isolation area should be collected uniformly and treated as medical waste.
+
+If an elderly person in a nursing home has suspicious symptoms such as fever, cough, mild nausea, weakness, slightly poor mental health, nausea and vomiting, diarrhea, headache, panic, chest tightness, conjunctivitis, mild muscle pain in the limbs or lower back, the nursing home should also take the following measures:
+
+(1) The elderly single room to isolate themselves and avoid close contact with other people.
+(2) Assessment of their health status by medical personnel, depending on the condition of the disease sent to medical institutions for medical treatment, should wear a medical surgical mask on the way to medical treatment, and try to avoid taking public transportation.
+(3) promptly contact the local community health agency or the CDC for guidance and assistance with related investigations and dispositions. Those who have had close contact with a person with suspected symptoms without effective protection should be registered immediately and placed under medical observation.
+4) Suspension of visitation activities.
+5) Reduce unnecessary gatherings, dinners and other group activities, and do not arrange centralized meals.
+(6) If an elderly person with suspicious symptoms is diagnosed with novel coronavirus pneumonia, his or her close contacts should be placed under medical observation for 14 days. After the patient leaves (e.g., hospitalization, death, etc.), final disinfection of the residence should be performed promptly. The specific disinfection method should be operated or directed by professionals from the local CDC agency or a qualified third party. The residence is not recommended for use without disinfection.
+
+(3) farmers' markets, birds, flowers, insects and fish markets, live poultry (livestock) trading markets
+
+1）Keep the workplace clean and hygienic and air circulation, daily cleaning and disinfection. To clean mainly, disinfection as a supplement. It is recommended that the market operators selling live animals (poultry, seafood, wild animals, etc.) after the close of business each day, to do "three clean and one disinfection" - clear: the stall scales, offal, feces, chicken feathers, scraps, other garbage and other dirt clean; clean. Use water to clean the countertop, ground, drainage ditch and ground around the store; disinfection: mainly disinfect the cleaned countertop, slaughtering tools, cutting board utensils, cages, stall ground; cleaning: rinse the disinfected utensils, countertop, cutting board, etc. with clean water. In addition, it is recommended that the market be cleaned regularly, emptied of any live poultry (livestock) stockpile; thoroughly remove feces, garbage and debris; dredge sewers, and clean the stall floor, walls, and the environment around the store; and thoroughly disinfect after a comprehensive cleaning.
+When disinfecting, for the surface of objects with more human contact, use 500mg/L chlorine-containing disinfectant for spraying or wiping disinfection, and then wash with water after 30 minutes of action. For objects that are not resistant to corrosion, 75% alcohol or 0.1% benzalkonium bromide (Neosporin) can be used for wiping and disinfection, and safety should be observed when using it. For large areas of floors and walls, a chlorine disinfectant solution with an effective chlorine level of 500-1000mg/L can be used for spraying, the amount of spraying should be wet and without dripping, and the action time should be not less than 30 minutes.
+(2) Garbage and feces should be concentrated for harmless treatment, and garbage transporters and hand-push garbage collection vehicles should be stored and transported in an airtight manner to improve garbage collection, transportation and treatment. Clean garbage daily to reduce the density of flies.
+(3) strengthen vector biological control. Install and implement anti-rodent, anti-mosquito and anti-fly facilities for use, improve the farmers' market vector biological control facilities; market ground hard bottom, ditches to be dredged, potholes ground to be filled, wall holes and cracks to be plugged and wiped, sewers and ditches to be sealed, sewer openings to install anti-rodent facilities; processing, sales, storage of directly imported food premises rooms to be equipped with screens, screen doors, wind curtain machines, screen covers, glass cabinets and other anti-fly facilities;. In and around the market to be placed in accordance with the relevant requirements of poisonous rodent house, regularly put poisonous rodent bait to reduce rodent density; regular inspections to remove all types of small containers of stagnant water, check the market flower store stagnant water to reduce the breeding of mosquitoes and insects.
+4) Both shopping at the market and market staff need to wear masks, and try to wear medical masks or medical surgical masks. Keep a safe distance of more than 1 meter when interacting with others in the market; stay away from wild animals. Do not touch, buy and eat wild animals and try to avoid stalls selling live poultry, wild animals, etc.
+
+
 
 
 
