@@ -98,7 +98,7 @@ class QGPipeline:
     def _extract_answers(self, context):
         sents, inputs = self._prepare_inputs_for_ans_extraction(context)
         inputs = self._tokenize(inputs, padding=True, truncation=True)
-        print("sents: " + sents)
+        print("sents: " + str(sents))
         print("inputs: " + str(inputs))
 
         outs = self.ans_model.generate(
