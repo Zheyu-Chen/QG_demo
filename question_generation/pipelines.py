@@ -98,8 +98,8 @@ class QGPipeline:
     def _extract_answers(self, context):
         sents, inputs = self._prepare_inputs_for_ans_extraction(context)
         inputs = self._tokenize(inputs, padding=True, truncation=True)
-        print("sents: " + str(sents))
-        print("inputs: " + str(inputs))
+        # print("sents: " + str(sents))
+        # print("inputs: " + str(inputs))
 
         outs = self.ans_model.generate(
             input_ids=inputs['input_ids'].to(self.device),
@@ -109,6 +109,8 @@ class QGPipeline:
 
         dec = [self.ans_tokenizer.decode(ids, skip_special_tokens=False) for ids in outs]
         answers = [item.split('<sep>') for item in dec]
+        print("dec: " + str(dec))
+        print("answers: " + str(answers))
         answers = [i[:-1] for i in answers]
 
         return sents, answers
