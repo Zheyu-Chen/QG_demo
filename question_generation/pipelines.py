@@ -70,7 +70,7 @@ class QGPipeline:
         qg_inputs = [example['source_text'] for example in qg_examples]
         questions = []
         for qg_input in qg_inputs:
-            print(str(qg_inputs.index(qg_input)) + " / " + str(len(qg_inputs)))
+            print(str(qg_inputs.index(qg_input) + 1) + " / " + str(len(qg_inputs)))
             questions.append(self._generate_questions([qg_input])[0])
         output: list = [{'answer': example['answer'], 'question': que} for example, que in zip(qg_examples, questions)]
         # write output to file "output.txt"
@@ -101,6 +101,7 @@ class QGPipeline:
     def _extract_answers(self, context):
         sents, inputs = self._prepare_inputs_for_ans_extraction(context)
         # print("inputs: " + str(inputs))
+        print("extracting answers...")
         inputs = self._tokenize(inputs, padding=False, truncation=True)
         # print("sents: " + str(sents))
         # print("inputs: " + str(inputs))
@@ -164,12 +165,12 @@ class QGPipeline:
                 try:
                     sent = sents[i]
                     sents_copy = sents[:]
-                    print("answer_text: " + answer_text)
-                    print("sent: " + sent)
+                    # print("answer_text: " + answer_text)
+                    # print("sent: " + sent)
                     answer_text = answer_text.strip()
 
                     ans_start_idx = sent.index(answer_text)
-                    print("ans_start_idx: " + str(ans_start_idx))
+                    # print("ans_start_idx: " + str(ans_start_idx))
                     sent = f"{sent[:ans_start_idx]} <hl> {answer_text} <hl> {sent[ans_start_idx + len(answer_text):]}"
                     sents_copy[i] = sent
 
