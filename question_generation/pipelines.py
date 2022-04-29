@@ -71,7 +71,7 @@ class QGPipeline:
         questions = []
         for qg_input in qg_inputs:
             print("hahaha")
-            questions = questions + self._generate_questions([qg_input])[0]
+            questions.append(self._generate_questions([qg_input])[0])
         output: list = [{'answer': example['answer'], 'question': que} for example, que in zip(qg_examples, questions)]
         # write output to file "output.txt"
         file = open("output.txt", "a")
