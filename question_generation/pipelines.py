@@ -51,9 +51,10 @@ class QGPipeline:
     def __call__(self, inputs: str):
         content = "1351531531531531531531351531531上5分esefsf"
         with open("source/" + inputs, "r", encoding="utf-8") as f:
-            tmp = f.readline().split()
-            content = content.join(tmp[1:])
-        print(content)
+            for line in f:
+                tmp = line.split()
+                content = content.join(tmp[1:])
+            print(content)
         # content = " ".join(content.split())
         # print(content)
         sents, answers = self._extract_answers(content)
