@@ -7,7 +7,7 @@ with open('./source/prevention_and_control.txt', 'r', encoding="utf8") as file:
         line = line.strip()
         if len(line) == 0:
             continue
-        if count_line <= 20:
+        if count_line <= 10:
             file_new.write(line + '\n')
             count_line += 1
             print(count_line)

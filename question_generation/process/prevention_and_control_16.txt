@@ -1,0 +1,12 @@
+1. Epidemic site
+In the event of a case or outbreak in the community, the area where the case may have contaminated is identified as an outbreak site. In principle, places visited by the patient 3 days before the onset of the disease until the isolation and treatment, places where the patient stays for more than 1 hour and where the space is small and poorly ventilated should be classified as an outbreak site for management. An outbreak site is generally defined as one or several households, one or several offices, train or bus cars, the same flight, the same ward, the same building, etc.
+2. Infected areas
+If there is a community-transmitted outbreak, the community may be identified as an infected area according to the relevant provisions of the Law of the People's Republic of China on the Prevention and Control of Infectious Diseases.
+(iv) close contacts
+With the case after the onset of one of the following exposure scenarios, but did not take effective protection.
+1. people who live, study, work with the case, or otherwise have close contact, such as working in close proximity to the case or sharing the same classroom or living in the same house as the case.
+2. medical staff, family members or other persons who have similar close contact with the case, such as direct treatment and care of the case, visiting the patient or staying in the confined environment where the case is located, other patients and their companions in the same ward of the case.
+3. travel on the same means of transport as the case and have close contact with personnel, including those who have cared for the patient on the transport, the patient's fellow passengers (family members, colleagues, friends, etc.), and other passengers and crew members found to be in close contact with the patient after investigation and assessment.
+4. The site investigator investigates and then evaluates the personnel who are deemed to be in contact with other close contacts.
+Third, community prevention and control strategies and measures
+(i) No cases found in the community
