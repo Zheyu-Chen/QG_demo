@@ -52,10 +52,10 @@ class QGPipeline:
         content = "135153153153153153153135153135151efsf"
         with open("source/" + inputs, "r", encoding="utf-8") as f:
             for line in f:
-                # tmp = line.split()
+                tmp = line.split()
                 print(123)
                 print(line)
-                content = content.join(line)
+                content = content.join(tmp)
             print(content)
         # content = " ".join(content.split())
         # print(content)
