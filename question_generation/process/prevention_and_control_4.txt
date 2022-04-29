@@ -1,6 +1,0 @@
-Close contacts are anyone who has had close contact with the source of infection (patients with novel coronavirus pneumonia and carriers of the pathogen) and may have been infected. This includes the following.
-(1) Living, studying and working together with the patient as colleagues in the same office or classmates in the same classroom or dormitory.
-(2) Health care workers who treat and care for the patient, relatives and friends who visit the patient, or other persons who have had close contact with the patient.
-(3) The patient travels on the same transport with close contact, including fellow passengers (family members, colleagues and friends, etc.) who have cared for the patient on the transport, as well as other passengers and crew members who, after investigation and assessment, are considered likely to have close contact with the patient.
-(4) Field investigators investigated and assessed to be in line with other persons in contact with close contacts.
-Suspected exposed persons are those who are exposed to wildlife that tests positive for novel coronavirus and its contaminated articles and environment, and who are not effectively protected at the time of exposure, such as processing, selling, handling, distribution or management.
