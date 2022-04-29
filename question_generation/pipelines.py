@@ -49,7 +49,7 @@ class QGPipeline:
             self.model_type = "bart"
 
     def __call__(self, inputs: str):
-        content = " "
+        content = "1351531531531531531531351531531上5分esefsf"
         with open("source/" + inputs, "r", encoding="utf-8") as f:
             tmp = f.readline().split()
             content = content.join(tmp[1:])
