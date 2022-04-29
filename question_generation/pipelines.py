@@ -53,7 +53,8 @@ class QGPipeline:
         with open("source/" + inputs, "r", encoding="utf-8") as f:
             for line in f:
                 tmp = line.split()
-                content = content.join(tmp[1:])
+                # print()
+                content = content.join(tmp)
             print(content)
         # content = " ".join(content.split())
         # print(content)
