@@ -52,9 +52,9 @@ class QGPipeline:
         content = "1351531531531531531531351531531上5分esefsf"
         with open("source/" + inputs, "r", encoding="utf-8") as f:
             for line in f:
-                tmp = line.split()
-                # print()
-                content = content.join(tmp)
+                # tmp = line.split()
+                print(line)
+                # content = content.join(tmp)
             print(content)
         # content = " ".join(content.split())
         # print(content)
