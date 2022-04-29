@@ -51,7 +51,7 @@ class QGPipeline:
     def __call__(self, inputs: str):
         with open("process/" + inputs, "r", encoding="utf-8") as f:
             content = f.read()
-        print(content)
+        # print(content)
         content = " ".join(content.split())
         # print(content)
         sents, answers = self._extract_answers(content)
@@ -70,7 +70,7 @@ class QGPipeline:
         qg_inputs = [example['source_text'] for example in qg_examples]
         questions = []
         for qg_input in qg_inputs:
-            print("hahaha")
+            print(str(qg_inputs.index(qg_input)) + " / " + str(len(qg_inputs)))
             questions.append(self._generate_questions([qg_input])[0])
         output: list = [{'answer': example['answer'], 'question': que} for example, que in zip(qg_examples, questions)]
         # write output to file "output.txt"
@@ -78,7 +78,7 @@ class QGPipeline:
         # title = "index" + "\t" + "label" + "\t" + "answer" + "\t" + "question" "\n"
         # file.write(title)
         for index, output_dict in enumerate(output):
-            write_in: str = str(index) + "\t" + str(index) + "\t" + output_dict['answer'] + '\t' + output_dict[
+            write_in: str = str(index) + "\t" + str(0) + "\t" + output_dict['answer'] + '\t' + output_dict[
                 'question'] + '\n'
             file.write(write_in)
         file.close()
