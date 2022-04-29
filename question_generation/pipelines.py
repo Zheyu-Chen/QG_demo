@@ -49,15 +49,10 @@ class QGPipeline:
             self.model_type = "bart"
 
     def __call__(self, inputs: str):
-        content = "135153153153153153153135153135151efsf"
         with open("source/" + inputs, "r", encoding="utf-8") as f:
-            for line in f:
-                tmp = line.split()
-                print(123)
-                print(line)
-                content = content.join(tmp)
-            print(content)
-        # content = " ".join(content.split())
+            content = f.read()
+        print(content)
+        content = " ".join(content.split())
         # print(content)
         sents, answers = self._extract_answers(content)
         # print(sents)
