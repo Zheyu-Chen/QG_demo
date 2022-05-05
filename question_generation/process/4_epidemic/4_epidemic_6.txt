@@ -1,0 +1,11 @@
+Horizontal transmission: The mutual transmission of pathogens from person to person in the external environment by means of transmission factors.
+Vertical transmission: Transmission of pathogens from mother to offspring, or mother-to-child transmission.
+Epidemic focus: The area that can be reached by the spread of the infectious agent and its discharge to the surrounding area is called the epidemic focus.
+Epidemic site: A small area or a single source of infection is called an epidemic site.
+Infected area: a larger area of the epidemic or a number of epidemic sites in a row is called an infected area.
+Epidemic process: The process of occurrence and spread of infectious diseases in the population, which requires the interaction and interconnection of three links: the source of infection, the transmission route and the susceptible population.
+Infectious process: refers to the process of interaction and struggle between the pathogen and the organism after it has invaded the organism.
+Retention test: the contact of infectious diseases in category A detention test, limiting the scope of their activities, requiring the implementation of consultation, testing and treatment in designated places
+Medical observation: Category B and C infectious disease contacts, under normal work and study conditions, receive medical examination, pathogenic examination, etc.
+Disinfection of epidemic focus: Disinfection of existing or formerly infectious sites.
+Current disinfection: Disinfection when the source of infection is still present at the source of the epidemic, timely disinfection of excretions, secretions, or contaminated objects and places of the source of infection.

@@ -1,0 +1,11 @@
+Terminal disinfection: When the source of the infection is healed, died or left after the thorough disinfection of the source of the epidemic, the purpose is to completely eliminate the source of the pathogens spread in the external environment.
+Artificial autoimmunization: A measure to prevent the occurrence of infectious diseases by inoculating the body with vaccines to produce specific immunity.
+Artificial passive immunity: The body is passively protected by the injection of serum or cytokines containing specific antibodies into the organism.
+Cold chain: The vaccine is sent from the production unit, kept in cold storage and transported to the primary health institution by cold storage step by step until the vaccination is given, and the whole process is properly refrigerated according to the requirements of vaccine storage to keep the vaccine's potency from being damaged.
+The three levels of epidemiological research content :disease, injury, and health.
+The three stages of epidemiological research content: revealing the phenomenon, identifying the causes, and providing measures.
+The three categories of epidemiological research content: descriptive, analytical, and experimental.
+The three basic methods of epidemiological research content: observation, experimental method, and mathematical and rational method.
+Epidemiological characteristics:characteristics of groups, characteristics of comparisons, characteristics of probability theory and mathematical statistics, characteristics of psychosocial, characteristics of prevention-oriented, characteristics of development.
+The application of prevalence: ① is a common indicator for cross-sectional studies ② to reflect the prevalence of chronic diseases with a long course and its impact on the health of the population ③ can provide a scientific basis for the planning of medical facilities, estimating the turnover of hospital beds, the need for health facilities and manpower, and the investment of medical expenses.
+Characteristics of cohort studies :They are observational, set up control groups, cause and effect, and can confirm the causal link between exposure and outcome. The :test the etiological hypothesis, evaluate the preventive effect.

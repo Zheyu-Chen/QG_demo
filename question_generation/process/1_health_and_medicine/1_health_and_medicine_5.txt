@@ -1,0 +1,11 @@
+1. Suspected cases.
+Any 1 of the following epidemiologic histories and any 2 of the clinical manifestations are present.
+If there is no clear epidemiological history, 3 of the clinical manifestations are met; or any 2 of the clinical manifestations are met, and the specific IgM antibody to the novel coronavirus is positive (recent vaccination against the novel coronavirus is not considered as a reference indicator).
+(1) Epidemiological history
+① A history of travel or residence in the community where the case was reported within 14 days prior to the onset of illness.
+② History of contact with a person with novel coronavirus infection within 14 days prior to the onset of the disease.
+(iii) exposure to patients with fever or respiratory symptoms in the community from which the case was reported within 14 days prior to onset.
+④ Aggregate onset (2 or more cases of fever and/or respiratory symptoms in a small area such as home, office, school class, etc. within 14 days).
+(2) Clinical manifestations
+① Clinical manifestations associated with novel coronavirus pneumonia such as fever and/or respiratory symptoms.
+② with the above-mentioned imaging features of novel coronavirus pneumonia.

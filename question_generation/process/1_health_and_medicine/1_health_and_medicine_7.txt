@@ -1,0 +1,11 @@
+Adults meet any of the following.
+1. the presence of shortness of breath, RR ≥ 30 beats/min.
+2. resting state, finger oxygen saturation ≤ 93% when inhaling air.
+3. Arterial partial pressure of oxygen (PaO2)/inhaled oxygen concentration (FiO2) ≤ 300mmHg
+(1 mmHg = 0.133 kPa).
+PaO2/FiO2 should be corrected for high altitudes (over 1000 m) according to the following formula: PaO2/FiO2 x [760/atmosphere (mmHg)].
+4. Progressive worsening of clinical symptoms and lung imaging showing significant progression of >50% of the lesion within 24-48 hours.
+The child meets any of the following.
+1. persistent high fever for more than 3 days.
+2. shortness of breath (<2 months of age, RR ≥ 60 beats/min; 2-12 months of age, RR
+3. resting state, finger oxygen saturation ≤ 93% when inhaling air.

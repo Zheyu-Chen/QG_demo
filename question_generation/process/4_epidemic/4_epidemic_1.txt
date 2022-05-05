@@ -1,0 +1,11 @@
+Sporadic: the incidence was at a general level over the years, with no significant association between cases in terms of time and place of onset
+Outbreak: The sudden appearance of many of the same patients in a short period of time in a local area or collective unit,
+Epidemic epidemic: refers to a disease that significantly exceeds the historical level of incidence of the disease in a given area (3-10 times)
+pandemic: A disease that sometimes spreads rapidly across a province, country, or continent, with incidence levels exceeding those that would have been prevalent under certain historical conditions in that location.
+Cross-sectional analysis: mainly analyzes the difference or change of morbidity and mortality of different age groups in the same era (cross-section) or different era (cross-section).
+Age period cohort analysis: This is a method to analyze the role of age, era and cohort exposure experience on the change of disease frequency and its magnitude.
+Short-term fluctuationsrapid fluctuations: Also known as point-in-time epidemics, short-term observations counted by days, weeks, and months. The meaning is similar to outbreak and is often used for larger populations.
+Seasonal variations:The phenomenon that the disease shows an increased incidence in a certain season each year.
+Cyclic change: A condition in which the frequency of a disease changes regularly over a fairly regular interval of time.
+Secular trend: A continuous observation of disease dynamics over several years or even decades, in which changes in disease pathogens, clinical manifestations, morbidity, mortality, or their simultaneous occurrence are examined.
+Endemic diseases: Diseases that are relatively stable and frequently occurring in specific areas. Immigrant epidemiology: To examine the differences in morbidity and mortality of diseases among immigrants, local residents of immigrant countries, and populations of origin, to explore the clues of the causes of diseases, and to distinguish the magnitude of the role of genetic or environmental factors.

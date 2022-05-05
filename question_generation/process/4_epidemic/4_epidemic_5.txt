@@ -1,0 +1,11 @@
+Class experiments:are experiments that cannot be done in randomized groups or without parallel controls.
+Screening: The use of quick and easy experiments, tests or other methods to identify individuals in the healthy population who may have diseases or defects, but are apparently healthy, from those who may not have diseases.
+Reliability: The degree of stability in obtaining the same result when the same subject is repeatedly measured with a measurement tool under the same conditions
+ROC curve: A curve obtained by plotting the true positive rate and the false positive rate, which reflects the relationship between sensitivity and specificity.
+Combined tests: When performing screening tests, multiple screening tests can be used to examine the same subject in order to improve the sensitivity or specificity of the screening test and increase the benefit of the screening test.
+Etiology: Factors that increase the probability of developing the disease in a population are considered to be the cause. They are generally referred to as risk factors in epidemiology.
+Rotational model: Based on the epidemiological triangle, the environment is further divided into biological, physicochemical and social environments, and the host also includes the genetic kernel, while the kinetic factors are no longer listed separately.
+Statistical association: the relationship between exposure and disease, excluding chance errors.
+Surveillance of diseases: means long-term, continuous, systematic collection of information on the dynamic distribution of diseases and their influencing factors, and after analysis, reporting and feedback of information to all those who should know, so that timely interventions can be taken and their effects evaluated.
+Passive surveillance: lower-level units routinely report monitoring data and information, while higher-level units passively receive it.
+Active surveillance: According to special needs, the higher-level units personally investigate and collect or require lower-level units to collect information in strict accordance with regulations.

@@ -1,0 +1,11 @@
+(A) the release of isolation management standards.
+Mild cases with two consecutive novel coronavirus nucleic acid tests with Ct values ≥ 35 for both N and ORF genes (fluorometric PCR method with a cut-off value of 40 and a sampling interval of at least 24 hours) or two consecutive negative novel coronavirus nucleic acid tests (fluorometric PCR method with a cut-off value below 35 and a sampling interval of at least 24 hours) may be released from isolation management.
+(ii) Discharge criteria.
+1. the body temperature returns to normal for more than 3 days.
+2. significant improvement in respiratory symptoms.
+3. lung imaging showing significant improvement in acute exudative lesions.
+4. two consecutive novel coronavirus nucleic acid test N gene and ORF gene Ct value are ≥ 35 (fluorescent quantitative PCR method, the threshold value of 40, sampling time interval of at least 24 hours), or two consecutive novel coronavirus nucleic acid test negative (fluorescent quantitative PCR method, the threshold value of less than 35, sampling time interval of at least 24 hours).
+Those who meet the above conditions can be discharged.
+(iii) Discharge from isolation management, post-discharge precautions.
+Continue home health monitoring for 7 days after discharge or discharge, wear a mask, live in a single room with good ventilation if possible, reduce close contact with family members, share meals, do hand hygiene, and avoid going outside.
+XIV. Principles of transit

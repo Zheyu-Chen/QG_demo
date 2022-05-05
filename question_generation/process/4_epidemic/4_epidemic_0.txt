@@ -1,0 +1,10 @@
+Epidemiology is the study of the distribution of diseases and health conditions in the population and the factors that influence them, as well as the study of strategies and measures to prevent diseases and promote health.
+Incidence: The frequency of new cases of a disease in a certain population over a certain period of time.
+Attack rate: The incidence rate in a limited area within a short period of time, applicable to local outbreaks of disease
+Morbidity rate: Morbidity rate can be calculated separately according to different characteristics, called morbidity rate.
+Prevalenceprevalence: the proportion of old and new cases of a disease in a certain population at a specific time. There are two categories: point-in-time and period-in-time
+Mortality rate: The frequency of death from a disease (or from all causes) in a certain population over a certain period of time.
+Mortality rates: Mortality rates were calculated separately by different characteristics (e.g., age, sex, occupation, etc.)
+Case fatality rate: The proportion of all patients suffering from a disease who die from that disease in a certain period of time.
+Potential years of life lost (PYLL): The sum of the difference between the life expectancy and the actual age of death of a population in a certain age group who died from a certain disease, i.e., the loss of life due to death, is an important index to evaluate the health level of the population,
+Disability-adjusted life year DALY: The total number of healthy life years lost from onset to death, including life years lost due to premature death YLL and healthy life years lost due to disability YLD.

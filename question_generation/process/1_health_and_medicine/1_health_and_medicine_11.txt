@@ -1,0 +1,11 @@
+(iii) Also differentiate from non-infectious diseases such as vasculitis, dermatomyositis and mechanized pneumonia.
+(iv) When rash and mucosal damage appear in pediatric patients, they need to be differentiated from Kawasaki disease.
+(v) Close contacts with novel coronavirus-infected individuals should be promptly tested for novel coronavirus pathogenesis even if they test positive for common respiratory pathogens.
+X. Case finding and reporting
+Medical institutions at all levels should immediately collect specimens for nucleic acid testing or transfer them in a closed loop to a higher level medical institution for nucleic acid testing if they are found to meet the case definition of a suspected case or a positive result of a new coronavirus antigen test, and isolate them in a single room. Those with positive nucleic acid test results should be managed in centralized isolation or sent to a designated hospital for treatment, and reported directly to the network in accordance with regulations.
+Two consecutive negative novel coronavirus nucleic acid tests (at least 24 hours apart from sampling) will rule out the diagnosis of a suspected case.
+XI. Treatment
+(a) Determine the isolation management and treatment sites according to the condition.
+1. Minor cases are managed in centralized isolation, and the relevant centralized isolation sites cannot isolate incoming personnel, close contacts and other people at the same time. During the isolation management should do a good job of symptomatic treatment and disease monitoring, such as aggravation of the disease, should be transferred to a designated hospital for treatment.
+2. General, heavy and critical cases and cases with heavy and high-risk factors should be treated centrally in designated hospitals, where heavy and critical cases should be treated in ICU as early as possible, and patients with high-risk factors and a tendency to be seriously ill should also be treated in ICU.
+(ii) General treatment.

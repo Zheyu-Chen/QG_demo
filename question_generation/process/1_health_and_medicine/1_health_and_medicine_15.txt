@@ -1,0 +1,11 @@
+(4) Airway management
+To enhance airway humidification, active heated humidifiers are recommended, and loop heated guidewires are used to ensure the humidification effect if available; closed suction is recommended, and tracheoscopic suction is recommended if necessary; active airway contouring therapy, such as vibration sputum removal, high-frequency thoracic oscillation, postural drainage, etc.; passive and active activities are carried out as early as possible under the condition of oxygenation and hemodynamic stability to promote sputum drainage and pulmonary rehabilitation.
+(5) Extracorporeal membrane pulmonary oxygenation (ECMO)
+Timing of ECMO initiation. Under optimal mechanical ventilation conditions (FiO2 ≥ 80%, the
+① PaO2/FiO2 <50 mmHg for more than 3 hours.
+② PaO2/FiO2 <80mmHg for more than 6 hours.
+(iii) Arterial blood pH < 7.25 and PaCO2 > 60 mmHg for more than 6 hours and respiratory rate > 35 breaths/min.
+④ Arterial blood pH < 7.2 and plateau pressure > 30 cmH2O at respiratory rate > 35 breaths/min.
+ECMO treatment should be initiated as early as possible in critically ill patients who meet the indications for ECMO and have no contraindications to avoid delays that may lead to poor patient prognosis.
+ECMO mode selection. Veno-venous ECMO (VV-ECMO) is the most common mode when only respiratory support is required; veno-arterial ECMO (VA-ECMO) is used when both respiratory and circulatory support is required; veno-arterial-venous ECMO (VAV-ECMO) can be used when head and arm hypoxia occurs with VA-ECMO. After ECMO, a strict lung-protective pulmonary ventilation strategy is implemented. Recommended initial settings: tidal volume <4-6 ml/kg ideal body weight, plateau pressure ≤25 cmH2O, driving pressure <15 cmH2O, PEEP 5-15 cmH2O, respiratory rate 4-10 breaths/min, FiO2
+<50%. Patients who have difficulty maintaining oxygenation or have strong inspiratory effort, have significant solidity in the gravity-dependent areas of both lungs, or require airway secretion drainage should be actively ventilated in the prone position.

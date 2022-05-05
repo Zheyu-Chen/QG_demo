@@ -1,0 +1,11 @@
+2. Pathogenic and serological examination.
+(1) Pathogenic examination: Nucleic acid amplification assay is used to detect novel coronavirus nucleic acid in nasal, oropharyngeal swabs, sputum and other lower respiratory secretions, and stool specimens. Nucleic acid testing can be affected by the course of the disease, specimen collection, testing process, testing reagents and other factors, in order to improve the accuracy of testing, specimen collection should be standardized, and specimens should be sent for testing as soon as possible after collection.
+(2) Serological examination: positive IgM and IgG antibodies specific for the novel coronavirus, with a low rate of positivity within 1 week of onset.
+False positive antibody tests may occur due to the positive judgment value of the reagents themselves, or the presence of interfering substances in the body (rheumatoid factor, heterophilic antibodies, complement, lysozyme, etc.), or specimen reasons (hemolysis of the specimen, bacterial contamination of the specimen, prolonged storage of the specimen, incomplete coagulation of the specimen, etc.). In general, serological tests alone are not used as a basis for diagnosis, but need to be combined with epidemiological history, clinical manifestations and underlying diseases for comprehensive judgment.
+(C) Chest imaging.
+In the early stage, there are multiple small patchy shadows and interstitial changes, which are obvious in the outer lung zone. In MIS-C, enlarged heart shadow and pulmonary edema are seen in patients with cardiac insufficiency.
+V. Diagnosis
+(i) Diagnostic principles.
+According to the comprehensive analysis of epidemiological history, clinical manifestations, laboratory tests, etc.
+Making the diagnosis. A positive nucleic acid test for novel coronavirus is the primary criterion for confirmation of the diagnosis. For those who have not received the novel coronavirus vaccine, the novel coronavirus-specific antibody test can be used as a reference for diagnosis. For those who have received the novel coronavirus vaccine and those who have been previously infected with the novel coronavirus, in principle, antibodies are not used as a basis for diagnosis.
+(ii) Diagnostic criteria.
