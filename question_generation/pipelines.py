@@ -48,8 +48,8 @@ class QGPipeline:
         else:
             self.model_type = "bart"
 
-    def __call__(self, inputs: str):
-        with open("process/" + inputs, "r", encoding="utf-8") as f:
+    def __call__(self, dirt: str, inputs: str):
+        with open("process/" + dirt + "/" + inputs, "r", encoding="utf-8") as f:
             content = f.read()
         # print(content)
         content = " ".join(content.split())
@@ -82,7 +82,7 @@ class QGPipeline:
                 'question'] + '\n'
             file.write(write_in)
         file.close()
-        
+
         return output
 
     def _generate_questions(self, inputs):
