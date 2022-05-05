@@ -74,7 +74,7 @@ class QGPipeline:
             questions.append(self._generate_questions([qg_input])[0])
         output: list = [{'answer': example['answer'], 'question': que} for example, que in zip(qg_examples, questions)]
         # write output to file "output.txt"
-        file = open("output_" + inputs + ".txt", "a")
+        file = open("output_" + dirt + ".txt", "a")
         # title = "index" + "\t" + "label" + "\t" + "answer" + "\t" + "question" "\n"
         # file.write(title)
         for index, output_dict in enumerate(output):
