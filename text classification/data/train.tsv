@@ -1,4 +1,4 @@
-ID	index	type	answer	question
+ID	index	label	answer	text
 0	0	0	Concordia Novel Coronavirus Pneumonia Protection Manual	What Catalog Chapter 1: Understanding novel coronavirus pneumonia 1. Introduction to the novel coronavirus 2. Current status of the epidemic of novel coron
 1	1	0	novel coronavirus 2.	What is the current status of the epidemic of novel coronavirus pneumonia at home and abroad?
 2	2	0	Current status of the epidemic of novel coronavirus pneumonia	What is the current status of the epidemic of novel coronavirus pneumonia at home and abroad?
@@ -77,7 +77,7 @@ ID	index	type	answer	question
 75	75	0	pneumonia	What is the cause of the new coronavirus pneumonia?
 76	76	0	is relatively rare and is not a major driver of transmission	What is not a major driver of transmission?
 77	77	0	Lung and immune system damage	What is predominant after neo-coronavirus infection?
-78	78	0	Feb-20	When was a report published on the systematic autopsy of dead bodies with novel coronavirus pneumonia published?
+78	78	0	20-Feb	When was a report published on the systematic autopsy of dead bodies with novel coronavirus pneumonia published?
 79	79	0	the lungs	What were the lesions of the new coronavirus infection focused on?
 80	80	0	nervous system	What did the report conclude that the new coronavirus pneumonia was classified as a global pandemic?
 81	81	0	aerosol	What type of transmission of novel coronavirus has been demonstrated in recent studies?
@@ -846,7 +846,7 @@ ID	index	type	answer	question
 1191	36	2	2200 hours	When did the Wuhan Municipal Health Commission declare that confirmed cases were found among close contacts of confirmed cases?
 1192	37	2	10:00 a.m.	When was all traffic in and out of Wuhan banned?
 1193	38	2	population involved	What is the largest quarantine event in human history?
-1194	39	2	Feb-20	In what year did the Wuhan Municipal Health Commission map the changing distribution of cases in mainland China?
+1194	39	2	20-Feb	In what year did the Wuhan Municipal Health Commission map the changing distribution of cases in mainland China?
 1195	40	2	156	How many secondary administrative regions are there?
 1196	41	2	"Yokohama, Japan"	Where was the Diamond Princess located?
 1197	42	2	"the Japanese Ministry of Health, Labour and Welfare"	Who quarantined the personnel on board in their cabins for 14 days before the outbreak?
@@ -875,7 +875,7 @@ ID	index	type	answer	question
 1220	65	2	United States	Where is the first death from 2019 coronavirus disease reported?
 1221	66	2	22-Feb-20	On what date was the outbreak of coronavirus in Iraq?
 1222	67	2	37	"How many countries and regions did Kada, Luxembourg, Ireland, Ecuador have?"
-1223	68	2	Mar-20	When was the distribution of confirmed cases in Europe?
+1223	68	2	20-Mar	When was the distribution of confirmed cases in Europe?
 1224	69	2	"10,000"	How many confirmed cases exist in the region?
 1225	70	2	Newcastle	What was the second pandemic strain of?
 1226	71	2	1-Mar-20	"On what date were the first confirmed cases of 2019 coronavirus disease reported in Armenia, the Czech Republic, and Dominica?"
@@ -1019,7 +1019,7 @@ ID	index	type	answer	question
 1364	209	2	George Floyd	Who was killed by a white police officer?
 1365	210	2	autopsy	In what report was George Floyd diagnosed with?
 1366	211	2	31-May-20	On what date did Rwanda report its first case of death from 2019 coronavirus disease?
-1367	212	2	Jun-20	When did Rwanda report its first case of death from 2019 coronavirus disease?
+1367	212	2	20-Jun	When did Rwanda report its first case of death from 2019 coronavirus disease?
 1368	213	2	More than 2 million	How many people were diagnosed with coronavirus disease in the United States in 2019?
 1369	214	2	46	How many people had positive throat swabs?
 1370	215	2	"Fengtai District, Beijing"	Where was war-time control initiated?
@@ -1178,7 +1178,7 @@ ID	index	type	answer	question
 1523	368	2	110 million	What was the cumulative number of newly diagnosed pneumonia cases worldwide?
 1524	369	2	"500,000"	"How many people died in the United States on February 19, 2021?"
 1525	370	2	Brazil	What country confirmed in more than 10 million people?
-1526	371	2	Mar-21	When was the number of confirmed coronavirus disease confirmed in more than 10 million people?
+1526	371	2	21-Mar	When was the number of confirmed coronavirus disease confirmed in more than 10 million people?
 1527	372	2	3 million	How many people were confirmed in Italy in March of 2021?
 1528	373	2	"100,000"	How many people died in Italy in March of 2021?
 1529	374	2	Cambodia	Where was the first case of 2019 coronavirus disease reported?
