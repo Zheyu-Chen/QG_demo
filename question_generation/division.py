@@ -9,9 +9,9 @@ data = np.loadtxt(filepath, dtype=str, delimiter="\t", skiprows=0)
 print(data)
 
 ##--------------------【若标签为Striing,先将标签转化为浮点型】------------------------------
-def iris_type(s):
-    class_label = {b'Iris-setosa': 0, b'Iris-versicolor': 1, b'Iris-virginica': 2}
-    return class_label[s]
+# def iris_type(s):
+#     class_label = {b'Iris-setosa': 0, b'Iris-versicolor': 1, b'Iris-virginica': 2}
+#     return class_label[s]
 
 
 # 使⽤numpy中的loadtxt读⼊数据⽂件（csv格式的iris数据，也可直接换成txt格式）
