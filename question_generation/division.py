@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 # 【⾸先，读取.TSV⽂件成矩阵的形式。】
 # 若标签为浮点，直接使⽤下⾯⼀⾏即可
 filepath = '.\\output\\all_output.tsv'  # 数据⽂件路径
-data = np.loadtxt(filepath, dtype=str, delimiter="\t", skiprows=0)
+data = np.loadtxt(filepath, dtype=str, delimiter="\t", skiprows=0, encoding='utf8')
 print(data)
 
 ##--------------------【若标签为Striing,先将标签转化为浮点型】------------------------------
@@ -26,8 +26,8 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_
 # np.column_stack将两个矩阵进⾏组合连接，numpy.savetxt 将txt⽂件保存为csv格式的⽂件
 train = np.column_stack((X_train, y_train))
 print(train)
-np.savetxt('.\\output\\train.tsv', train, fmt='%s', delimiter='\t')
+np.savetxt('.\\output\\train.tsv', train, fmt='%s', delimiter='\t', encoding='utf8')
 # np.savetsv('.\\output\\train_set.tsv', train, delimiter='\t')
 test = np.column_stack((X_test, y_test))
-np.savetxt('.\\output\\validation.tsv', test, fmt='%s', delimiter='\t')
+np.savetxt('.\\output\\validation.tsv', test, fmt='%s', delimiter='\t',  encoding='utf8')
 # np.savetsv('.\\output\\test_set.tsv', test, delimiter='\t')
