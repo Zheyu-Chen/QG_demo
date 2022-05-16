@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FAQ_page</title>
+</head>
+<body>
+<h1>FAQ_page</h1>
+<form method="POST" action="" enctype="multipart/form-data">
+    {% csrf_token %}
+    <input id="file" accept="text/tab-separated-values" type="file" name="file">
+    <input type="submit" value="submit">
+</form>
+<h1>FAQ</h1>
+{% for question in questions %}
+    <h2>{{ question.answer_text }}</h2>
+    <p>{{ question.question_text }}</p>
+{% endfor %}
+
+
+</body>
+</html>
