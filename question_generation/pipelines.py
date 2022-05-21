@@ -55,8 +55,8 @@ class QGPipeline:
         content = " ".join(content.split())
         # print(content)
         sents, answers = self._extract_answers(content)
-        # print(sents)
-        # print(answers)
+        print(sents)
+        print(answers)
         flat_answers = list(itertools.chain(*answers))
 
         if len(flat_answers) == 0:
