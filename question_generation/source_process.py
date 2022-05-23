@@ -1,7 +1,17 @@
-def pre_process(source_file):
-    with open('./source/' + source_file, 'r', encoding="utf8") as file:
-        file_new = open('./process/' + source_file + "/" + source_file + "_" + str(0) + ".txt", 'a',
+def pre_process(file_name):
+
+    with open('./source/' + file_name, 'rb') as file_source:
+        with open('./temp/' + file_name, "w", encoding="utf8") as file_temp:
+            for line in file_source:
+                if not line:
+                    break
+                else:
+                    line = line.decode("utf-8", "ignore")
+                    file_temp.write(str(line).rstrip() + '\n')
+    with open('./temp/' + file_name, 'r', encoding="utf8") as file:
+        file_new = open('./process/' + file_name + "/" + file_name + "_" + str(0) + ".txt", 'a',
                         encoding="utf8")
+
         count_file = 0
         count_line = 0
         for line in file:
@@ -16,7 +26,7 @@ def pre_process(source_file):
                 file_new.close()
                 count_file += 1
                 count_line = 0
-                file_new = open("./process/" + source_file + "/" + source_file + "_" + str(count_file) + ".txt", 'a',
+                file_new = open("./process/" + file_name + "/" + file_name + "_" + str(count_file) + ".txt", 'a',
                                 encoding="utf8")
                 file_new.write(line + '\n')
 
